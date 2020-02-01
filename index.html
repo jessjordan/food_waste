@@ -1,0 +1,166 @@
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link href="https://fonts.googleapis.com/css?family=Anton&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <!-- <link rel="icon" href="/images/food_waste_logo.png">
+    <link rel="stylesheet" href="/static/style.css"> -->
+    <title>Food Waste</title>
+</head>
+
+<body>
+    <div class="wrapper">
+        <!-- Just an image -->
+
+        <nav id="theTop" class="navbar justify-content-center">
+            <ul class="nav ">
+                <li class="nav-item">
+                    <a onclick="smoothScroll(document.getElementById('WhatPage'))" id="about" class="nav-link active" href="#">About Us</a>
+                </li>
+                <li class="nav-item">
+                    <a onclick="smoothScroll(document.getElementById('business'))" class="nav-link" href="#">The Mission</a>
+                </li>
+                <li class="nav-item">
+                    <a onclick="smoothScroll(document.getElementById('MeetPage'))" class="nav-link" href="#">Our Work</a>
+                </li>
+                <li class="nav-item">
+                    <a id="contact" onclick="smoothScroll(document.getElementById('ExpandPage'))" class="nav-link" href="#" tabindex="-1" aria-disabled="true">Contact Us</a>
+                </li>
+            </ul>
+
+        </nav>
+        <a class="navbar-brand" href="#">
+            <img onclick="smoothScroll(document.getElementById('foot'))" src="/images/round_food_waste.png" alt="">
+        </a>
+        <!-- Image and text -->
+        <div id="EntrancePage">
+            <div class="jumbotron" id="enter">
+
+            </div>
+
+        </div>
+
+        <div id="WhatPage">
+            <div class="jumbotron jumbotron-fluid  bg-light" id="wha">
+                <div class="container">
+                    <div class="cbody">
+                        <img src="/images/national_loss_index.png" class="img-fluid" alt="Responsive image">
+                        <!-- <p>Knowledege is power! <span> Technology is power!</span><br><span>You are powerful</span></p> -->
+                    </div>
+                </div>
+            </div>
+            <div id="business" class="card-deck bg-transparent">
+                <div class="card">
+                    <img id="myImg" src="./important/images/000.png" class="card-img-top" alt="...">
+
+
+                    <!-- Trigger the Modal -->
+
+
+                    <!-- The Modal -->
+                    <div id="myModal" class="modal">
+
+                        <!-- The Close Button -->
+                        <span class="close">×</span>
+
+                        <!-- Modal Content (The Image) -->
+                        <img class="modal-content" id="img01">
+
+                        <!-- Modal Caption (Image Text) -->
+                        <div id="caption"></div>
+                    </div>
+
+                </div>
+                <div class="card">
+
+                    <div class="card-body">
+                        <img id="myImg2" src="./important/images/tutor.png" class="card-img-top" alt="...">
+
+
+                        <!-- Trigger the Modal -->
+
+
+                        <!-- The Modal -->
+                        <div id="myModal2" class="modal">
+
+                            <!-- The Close Button -->
+                            <span class="close">×</span>
+
+                            <!-- Modal Content (The Image) -->
+                            <img class="modal-content" id="img02">
+
+                            <!-- Modal Caption (Image Text) -->
+                            <div id="caption2"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div id="ExpandPage">
+            <div class="card text-center">
+                <div class="card-header">
+                    We'd Love To Hear From You
+                </div>
+                <div class="card-body">
+                    <form class="container">
+                        <div class="form-group">
+                            <label class="lab" for="exampleFormControlInput1">Let's Start With Your Email</label>
+                            <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+                        </div>
+                        <div class="container">
+                            <div class="form-group">
+                                <label class="lab" for="formGroupExampleInput">What City Are You From? </label>
+                                <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Atlanta">
+                            </div>
+                            <!-- <div class="container">
+                                <div class="form-group">
+                                    <label class="lab" for="exampleFormControlSelect1">Share Your Years of Life</label>
+                                    <select class="form-control" id="exampleFormControlSelect1">
+                            <option>3-10</option>
+                            <option>11-20</option>
+                            <option>21-40</option>
+                            <option>41-60</option>
+                            <option>61+</option>
+                          </select>
+                                </div>
+                            </div> -->
+                        </div>
+
+                    </form>
+                </div>
+                <div class="card-footer text-muted">
+                    <button>Send Now</button>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="push"></div>
+
+
+    </div>
+    <div id="foot" class="footer">
+        <!-- Just an image -->
+        <nav class="navbar navbar-light">
+            <a class="navbar-brand" href="#">
+                <img onclick="smoothScroll(document.getElementById('theTop'))" id="footImg" src="./important/images/aabe88f6-f559-4093-bf72-fc06fbabbd7b_200x200.png" width="30" height="30" alt="">
+            </a>
+            <footer>Floral Intelligence LLC ©</footer>
+
+
+        </nav>
+    </div>
+
+
+    <script src="./important/function/main.js"></script>
+    <script src="https://code.jquery.com/jquery-3.4.1.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+
+
+</body></html>
