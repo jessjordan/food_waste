@@ -1,0 +1,983 @@
+geographicaream49,country,measureditemcpc,crop,timepointyears,loss_per_clean,fsc_location1
+112,Belarus,1212,cabbages,2013,6.4605,Total Supply Chain Estimate
+112,Belarus,2211,raw milk of cattle,2013,0.0076,Total Supply Chain Estimate
+116,Cambodia,1234,Tomatoes,2013,3.5,Wholesale
+116,Cambodia,1234,Tomatoes,2013,3.5,Retail
+116,Cambodia,1234,Tomatoes,2013,3.5,Traders
+116,Cambodia,1234,Tomatoes,2013,12.5,Producer
+120,Cameroon,1313,Plantain,2013,35,Total Supply Chain Estimate
+124,Canada,111,wheat,2013,0.0551,Total Supply Chain Estimate
+124,Canada,1211,asparagus,2013,7.0562,Total Supply Chain Estimate
+124,Canada,1212,cabbages,2013,10.2026,Total Supply Chain Estimate
+124,Canada,1213,cauliflowers and broccoli,2013,5.0266,Total Supply Chain Estimate
+124,Canada,1214,lettuce and chicory,2013,5.2941,Total Supply Chain Estimate
+124,Canada,1221,watermelons,2013,8.5861,Total Supply Chain Estimate
+124,Canada,1229,cantaloupes and other melons,2013,6.6396,Total Supply Chain Estimate
+124,Canada,1231,"chillies and peppers, green (capsicum spp. and pimenta spp.)",2013,6.0614,Total Supply Chain Estimate
+124,Canada,1232,cucumbers and gherkins,2013,13.8924,Total Supply Chain Estimate
+124,Canada,1234,tomatoes,2013,7.959,Total Supply Chain Estimate
+124,Canada,1241.9,"other beans, green",2013,3.7905,Total Supply Chain Estimate
+124,Canada,1242,"peas, green",2013,0.9217,Total Supply Chain Estimate
+124,Canada,1251,carrots and turnips,2013,1.981,Total Supply Chain Estimate
+124,Canada,1252,green garlic,2013,5.4104,Total Supply Chain Estimate
+124,Canada,1253.02,"onions and shallots, dry (excluding dehydrated)",2013,9.4784,Total Supply Chain Estimate
+124,Canada,1254,leeks and other alliaceous vegetables,2013,4.6121,Total Supply Chain Estimate
+124,Canada,1290.01,green corn (maize) ,2013,2.3823,Total Supply Chain Estimate
+124,Canada,1290.9,"other vegetables, fresh n.e.c.",2013,5.9385,Total Supply Chain Estimate
+124,Canada,1330,grapes,2013,5.7737,Total Supply Chain Estimate
+124,Canada,1341,apples,2013,3.3099,Total Supply Chain Estimate
+124,Canada,1342.01,pears,2013,6.1725,Total Supply Chain Estimate
+124,Canada,1343,apricots,2013,10.0146,Total Supply Chain Estimate
+124,Canada,1344.02,cherries,2013,6.4935,Total Supply Chain Estimate
+124,Canada,1345,peaches and nectarines,2013,4.3573,Total Supply Chain Estimate
+124,Canada,1346,plums and sloes,2013,5.6142,Total Supply Chain Estimate
+124,Canada,1352,kiwi fruit,2013,6.3814,Total Supply Chain Estimate
+124,Canada,1353.01,raspberries,2013,0.8146,Total Supply Chain Estimate
+124,Canada,1354,strawberries,2013,6.057,Total Supply Chain Estimate
+124,Canada,1355.01,blueberries,2013,0.8854,Total Supply Chain Estimate
+124,Canada,1355.02,cranberries,2013,0.0817,Total Supply Chain Estimate
+124,Canada,1355.9,other berries and fruits of the genus vaccinium,2013,0,Total Supply Chain Estimate
+124,Canada,1359.9,other fruits n.e.c. ,2013,5.5584,Total Supply Chain Estimate
+124,Canada,141,soya beans,2013,0.5975,Total Supply Chain Estimate
+124,Canada,1701,"beans, dry",2013,2.4284,Total Supply Chain Estimate
+124,Canada,1702,"broad beans and horse beans, dry",2013,0,Total Supply Chain Estimate
+124,Canada,1705,"peas, dry",2013,2.0198,Total Supply Chain Estimate
+124,Canada,231,"hen eggs in shell, fresh",2013,1.9493,Total Supply Chain Estimate
+124,Canada,21113.01,"meat of pig with the bone, fresh or chilled",2013,7.9961,Total Supply Chain Estimate
+144,Sri Lanka,112,maize (corn),2013,3.0125,Total Supply Chain Estimate
+144,Sri Lanka,112,maize (corn),2013,3.0125,Total Supply Chain Estimate
+144,Sri Lanka,112,maize (corn),2013,3.0125,Total Supply Chain Estimate
+144,Sri Lanka,113,rice,2013,5.8061,Total Supply Chain Estimate
+144,Sri Lanka,118,millet,2013,4.9681,Total Supply Chain Estimate
+144,Sri Lanka,1510,potatoes,2013,9.9991,Total Supply Chain Estimate
+144,Sri Lanka,1520.01,"cassava, fresh",2013,4.997,Total Supply Chain Estimate
+144,Sri Lanka,1530,sweet potatoes,2013,5.0016,Total Supply Chain Estimate
+152,Chile,1341,apples,2013,0.1748,Total Supply Chain Estimate
+152,Chile,2211,raw milk of cattle,2013,1.1632,Total Supply Chain Estimate
+188,Costa Rica,1312,bananas,2013,2.4813,Total Supply Chain Estimate
+192,Cuba,1312,bananas,2013,6.0531,Total Supply Chain Estimate
+192,Cuba,1313,plantains and others,2013,1.0036,Total Supply Chain Estimate
+192,Cuba,1510,potatoes,2013,2.0619,Total Supply Chain Estimate
+192,Cuba,1530,sweet potatoes,2013,4.491,Total Supply Chain Estimate
+192,Cuba,1701,"beans, dry",2013,0.3082,Total Supply Chain Estimate
+196,Cyprus,115,barley,2013,0.5471,Total Supply Chain Estimate
+203,Czechia,111,wheat,2013,0.6382,Total Supply Chain Estimate
+203,Czechia,115,barley,2013,0.6274,Total Supply Chain Estimate
+203,Czechia,116,rye,2013,1.1346,Total Supply Chain Estimate
+203,Czechia,117,oats,2013,0.9344,Total Supply Chain Estimate
+203,Czechia,1330,grapes,2013,2.1413,Total Supply Chain Estimate
+203,Czechia,1510,Potatoes,2013,25.75,Total Supply Chain Estimate
+204,Benin,113,Rice,2013,1.6,Storage
+208,Denmark,111,wheat,2013,2.9962,Total Supply Chain Estimate
+208,Denmark,115,barley,2013,3.0102,Total Supply Chain Estimate
+208,Denmark,116,rye,2013,2.9992,Total Supply Chain Estimate
+208,Denmark,117,oats,2013,2.9374,Total Supply Chain Estimate
+208,Denmark,1212,cabbages,2013,14.6294,Total Supply Chain Estimate
+208,Denmark,1214,lettuce and chicory,2013,5.7203,Total Supply Chain Estimate
+208,Denmark,1251,carrots and turnips,2013,12.4195,Total Supply Chain Estimate
+208,Denmark,1253.02,"onions and shallots, dry (excluding dehydrated)",2013,7.2375,Total Supply Chain Estimate
+208,Denmark,1270,mushrooms and truffles,2013,6.7097,Total Supply Chain Estimate
+208,Denmark,1341,apples,2013,6.7539,Total Supply Chain Estimate
+208,Denmark,1342.01,pears,2013,0.6869,Total Supply Chain Estimate
+208,Denmark,1510,potatoes,2013,15.9752,Total Supply Chain Estimate
+208,Denmark,1705,"peas, dry",2013,3.42,Total Supply Chain Estimate
+208,Denmark,231,"hen eggs in shell, fresh",2013,0.9753,Total Supply Chain Estimate
+218,Ecuador,111,wheat,2013,0.0885,Total Supply Chain Estimate
+218,Ecuador,115,barley,2013,3.7818,Total Supply Chain Estimate
+218,Ecuador,117,oats,2013,0.7138,Total Supply Chain Estimate
+218,Ecuador,1194,Quinoa,2013,5,Pre-Harvest
+218,Ecuador,1194,Quinoa,2013,5,Pre-Harvest
+218,Ecuador,1312,bananas,2013,0.417,Total Supply Chain Estimate
+218,Ecuador,1313,plantains and others,2013,1.6553,Total Supply Chain Estimate
+218,Ecuador,1319,"other tropical fruits, n.e.c.",2013,0.31,Total Supply Chain Estimate
+218,Ecuador,1354,strawberries,2013,0.059,Total Supply Chain Estimate
+218,Ecuador,1355.9,other berries and fruits of the genus vaccinium,2013,17.9636,Total Supply Chain Estimate
+218,Ecuador,1610,"coffee, green",2013,6.4433,Total Supply Chain Estimate
+218,Ecuador,1701,Beans,2013,10,Producer
+218,Ecuador,1701,Beans,2013,10,Storage
+218,Ecuador,1701,Beans,2013,10,Producer
+218,Ecuador,1701,Beans,2013,10,Storage
+218,Ecuador,1921.01,"seed cotton, unginned",2013,1.9048,Total Supply Chain Estimate
+222,El Salvador,112,Maize (Corn) White,2013,8,Producer
+222,El Salvador,112,Maize (Corn) White,2013,8,Producer
+222,El Salvador,113,Rice,2013,6,Producer
+222,El Salvador,114,Sorghum,2013,6,Producer
+222,El Salvador,1610,"coffee, green",2013,3.0428,Total Supply Chain Estimate
+222,El Salvador,1701,"Beans, Red",2013,8,Producer
+222,El Salvador,1701,"Beans, Red",2013,8,Producer
+222,El Salvador,1802,sugar cane,2013,0.5151,Total Supply Chain Estimate
+233,Estonia,115,Barley,2013,0.16,Total Supply Chain Estimate
+233,Estonia,115,barley,2013,0.1576,Total Supply Chain Estimate
+233,Estonia,116,rye,2013,1.3653,Total Supply Chain Estimate
+233,Estonia,117,Oats,2013,1.13,Total Supply Chain Estimate
+233,Estonia,1510,Potatoes,2013,5.33,Total Supply Chain Estimate
+250,France,111,wheat,2013,0.9262,Total Supply Chain Estimate
+250,France,112,maize (corn),2013,0.8643,Total Supply Chain Estimate
+250,France,112,maize (corn),2013,0.8643,Total Supply Chain Estimate
+250,France,112,maize (corn),2013,0.8643,Total Supply Chain Estimate
+250,France,113,rice,2013,1.1138,Total Supply Chain Estimate
+250,France,115,barley,2013,0.8046,Total Supply Chain Estimate
+250,France,117,oats,2013,0.5822,Total Supply Chain Estimate
+250,France,1213,cauliflowers and broccoli,2013,12.7353,Total Supply Chain Estimate
+250,France,1234,tomatoes,2013,18.7468,Total Supply Chain Estimate
+250,France,1341,apples,2013,4.5019,Total Supply Chain Estimate
+250,France,1510,potatoes,2013,15.0927,Total Supply Chain Estimate
+250,France,2211,raw milk of cattle,2013,0.1823,Total Supply Chain Estimate
+250,France,2291,raw milk of sheep,2013,0.6137,Total Supply Chain Estimate
+250,France,231,"Hen Eggs In Shell, Fresh",2013,0.94,Total Supply Chain Estimate
+250,France,231,"hen eggs in shell, fresh",2013,0.9409,Total Supply Chain Estimate
+266,Gabon,1313,Plantain,2013,35,Total Supply Chain Estimate
+266,Gabon,1313,plantains and others,2013,31.3917,Total Supply Chain Estimate
+266,Gabon,1520.01,"cassava, fresh",2013,17.2658,Total Supply Chain Estimate
+268,Georgia,111,Wheat,2013,16.05,Total Supply Chain Estimate
+268,Georgia,111,wheat,2013,1.7677,Total Supply Chain Estimate
+268,Georgia,112,Maize (Corn),2013,4.12,Total Supply Chain Estimate
+268,Georgia,112,Maize (Corn),2013,4.12,Total Supply Chain Estimate
+268,Georgia,112,maize (corn),2013,4.122,Total Supply Chain Estimate
+268,Georgia,112,maize (corn),2013,4.122,Total Supply Chain Estimate
+268,Georgia,112,maize (corn),2013,4.122,Total Supply Chain Estimate
+268,Georgia,1330,Grapes,2013,3.14,Total Supply Chain Estimate
+268,Georgia,1330,grapes,2013,3.1418,Total Supply Chain Estimate
+268,Georgia,1510,Potatoes,2013,1.69,Total Supply Chain Estimate
+268,Georgia,1510,potatoes,2013,1.6858,Total Supply Chain Estimate
+276,Germany,111,Wheat,2013,2.63,Total Supply Chain Estimate
+276,Germany,111,wheat,2013,2.63,Total Supply Chain Estimate
+276,Germany,112,Maize (Corn),2013,2.3,Total Supply Chain Estimate
+276,Germany,112,maize (corn),2013,2.3021,Total Supply Chain Estimate
+276,Germany,112,maize (corn),2013,2.3021,Total Supply Chain Estimate
+276,Germany,112,maize (corn),2013,2.3021,Total Supply Chain Estimate
+276,Germany,115,Barley,2013,2.36,Total Supply Chain Estimate
+276,Germany,115,barley,2013,2.3493,Total Supply Chain Estimate
+276,Germany,116,rye,2013,2.3245,Total Supply Chain Estimate
+276,Germany,117,Oats,2013,2.87,Total Supply Chain Estimate
+276,Germany,117,oats,2013,2.8676,Total Supply Chain Estimate
+276,Germany,1191,triticale,2013,1.9931,Total Supply Chain Estimate
+276,Germany,1290.9,"other vegetables, fresh n.e.c.",2013,4.0791,Total Supply Chain Estimate
+276,Germany,1341,apples,2013,1.8662,Total Supply Chain Estimate
+276,Germany,141,soya beans,2013,0.3309,Total Supply Chain Estimate
+276,Germany,1441,linseed,2013,0.7504,Total Supply Chain Estimate
+276,Germany,1442,mustard seed,2013,1.619,Total Supply Chain Estimate
+276,Germany,1443,rapeseed or colza seed,2013,1.677,Total Supply Chain Estimate
+276,Germany,1445,sunflower seed,2013,2.1692,Total Supply Chain Estimate
+276,Germany,1448,poppy seed,2013,6.25,Total Supply Chain Estimate
+276,Germany,1510,potatoes,2013,12.4099,Total Supply Chain Estimate
+276,Germany,2211,raw milk of cattle,2013,0.0958,Total Supply Chain Estimate
+276,Germany,231,"hen eggs in shell, fresh",2013,0.8965,Total Supply Chain Estimate
+276,Germany,21111.01,"meat of cattle with the bone, fresh or chilled",2013,0.4478,Total Supply Chain Estimate
+28,Antigua and Barbuda,1550,taro ,2013,0,Total Supply Chain Estimate
+288,Ghana,142,"groundnuts, excluding shelled",2013,2.6907,Total Supply Chain Estimate
+288,Ghana,1540,yams,2013,15.8737,Total Supply Chain Estimate
+288,Ghana,1550,taro ,2013,31.3126,Total Supply Chain Estimate
+300,Greece,1323,oranges,2013,10.276,Total Supply Chain Estimate
+300,Greece,1510,potatoes,2013,10.069,Total Supply Chain Estimate
+31,Azerbaijan,111,Wheat,2013,1.48,Total Supply Chain Estimate
+31,Azerbaijan,111,Wheat,2013,14.74,Total Supply Chain Estimate
+31,Azerbaijan,111,wheat,2013,1.4751,Total Supply Chain Estimate
+31,Azerbaijan,112,Maize (Corn),2013,0.28,Total Supply Chain Estimate
+31,Azerbaijan,112,Maize (Corn),2013,2.76,Total Supply Chain Estimate
+31,Azerbaijan,112,maize (corn),2013,2.7621,Total Supply Chain Estimate
+31,Azerbaijan,112,maize (corn),2013,2.7621,Total Supply Chain Estimate
+31,Azerbaijan,112,maize (corn),2013,2.7621,Total Supply Chain Estimate
+31,Azerbaijan,113,rice,2013,10.6794,Total Supply Chain Estimate
+31,Azerbaijan,115,Barley,2013,3.43,Total Supply Chain Estimate
+31,Azerbaijan,115,barley,2013,1.1013,Total Supply Chain Estimate
+31,Azerbaijan,117,Oats,2013,8.58,Total Supply Chain Estimate
+31,Azerbaijan,1221,watermelons,2013,8.8812,Total Supply Chain Estimate
+31,Azerbaijan,1233,eggplants (aubergines),2013,2.1219,Total Supply Chain Estimate
+31,Azerbaijan,1510,Potatoes,2013,0.65,Total Supply Chain Estimate
+31,Azerbaijan,1510,Potatoes,2013,6.48,Total Supply Chain Estimate
+31,Azerbaijan,1510,potatoes,2013,0.6477,Total Supply Chain Estimate
+31,Azerbaijan,1701,"Beans, Dry",2013,3.7,Total Supply Chain Estimate
+32,Argentina,112,Maize (Corn),2013,1.25,Total Supply Chain Estimate
+32,Argentina,112,maize (corn),2013,1.2454,Total Supply Chain Estimate
+32,Argentina,112,maize (corn),2013,1.2454,Total Supply Chain Estimate
+32,Argentina,112,maize (corn),2013,1.2454,Total Supply Chain Estimate
+32,Argentina,1520.01,"cassava, fresh",2013,8.6957,Total Supply Chain Estimate
+320,Guatemala,111,wheat,2013,0.1077,Total Supply Chain Estimate
+320,Guatemala,112,Maize (Corn),2013,20,Storage
+320,Guatemala,112,Maize (Corn),2013,42.5,Storage
+320,Guatemala,112,Maize (Corn),2013,20,Storage
+320,Guatemala,112,Maize (Corn),2013,42.5,Storage
+320,Guatemala,112,maize (corn),2013,3.0638,Total Supply Chain Estimate
+320,Guatemala,112,maize (corn),2013,3.0638,Total Supply Chain Estimate
+320,Guatemala,112,maize (corn),2013,3.0638,Total Supply Chain Estimate
+320,Guatemala,113,rice,2013,0.8155,Total Supply Chain Estimate
+320,Guatemala,114,sorghum,2013,3.6496,Total Supply Chain Estimate
+320,Guatemala,1610,"coffee, green",2013,0.4625,Total Supply Chain Estimate
+320,Guatemala,1701,"beans, dry",2013,13.1588,Total Supply Chain Estimate
+320,Guatemala,1802,sugar cane,2013,1,Total Supply Chain Estimate
+324,Guinea,1313,Plantain,2013,35,Total Supply Chain Estimate
+348,Hungary,111,Wheat,2013,1.44,Total Supply Chain Estimate
+348,Hungary,111,wheat,2013,1.4371,Total Supply Chain Estimate
+348,Hungary,112,Maize (Corn),2013,1.85,Total Supply Chain Estimate
+348,Hungary,112,maize (corn),2013,1.8488,Total Supply Chain Estimate
+348,Hungary,112,maize (corn),2013,1.8488,Total Supply Chain Estimate
+348,Hungary,112,maize (corn),2013,1.8488,Total Supply Chain Estimate
+348,Hungary,113,rice,2013,1.088,Total Supply Chain Estimate
+348,Hungary,115,Barley,2013,1.17,Total Supply Chain Estimate
+348,Hungary,115,barley,2013,1.1726,Total Supply Chain Estimate
+348,Hungary,116,rye,2013,1.0894,Total Supply Chain Estimate
+348,Hungary,117,Oats,2013,0.87,Total Supply Chain Estimate
+348,Hungary,117,oats,2013,0.867,Total Supply Chain Estimate
+348,Hungary,118,Millet,2013,0.98,Total Supply Chain Estimate
+348,Hungary,1192,Buckwheat,2013,0.54,Total Supply Chain Estimate
+348,Hungary,1195,Canary Seed,2013,1.59,Total Supply Chain Estimate
+348,Hungary,1212,cabbages,2013,7.9353,Total Supply Chain Estimate
+348,Hungary,1221,watermelons,2013,2.9931,Total Supply Chain Estimate
+348,Hungary,1229,cantaloupes and other melons,2013,0.6261,Total Supply Chain Estimate
+348,Hungary,1231,"chillies and peppers, green (capsicum spp. and pimenta spp.)",2013,5.1606,Total Supply Chain Estimate
+348,Hungary,1232,cucumbers and gherkins,2013,1.3276,Total Supply Chain Estimate
+348,Hungary,1234,tomatoes,2013,1.0309,Total Supply Chain Estimate
+348,Hungary,1235,"pumpkins, squash and gourds",2013,1.3308,Total Supply Chain Estimate
+348,Hungary,1241.9,"other beans, green",2013,0.75,Total Supply Chain Estimate
+348,Hungary,1242,"peas, green",2013,1.4782,Total Supply Chain Estimate
+348,Hungary,1251,carrots and turnips,2013,2.9483,Total Supply Chain Estimate
+348,Hungary,1253.02,"onions and shallots, dry (excluding dehydrated)",2013,3.0065,Total Supply Chain Estimate
+348,Hungary,1290.9,"other vegetables, fresh n.e.c.",2013,2.279,Total Supply Chain Estimate
+348,Hungary,1330,grapes,2013,0.0011,Total Supply Chain Estimate
+348,Hungary,1341,apples,2013,1.0137,Total Supply Chain Estimate
+348,Hungary,1342.01,pears,2013,1.0112,Total Supply Chain Estimate
+348,Hungary,1343,apricots,2013,0.2001,Total Supply Chain Estimate
+348,Hungary,1344.01,sour cherries,2013,0.4971,Total Supply Chain Estimate
+348,Hungary,1344.02,cherries,2013,1.9822,Total Supply Chain Estimate
+348,Hungary,1345,peaches and nectarines,2013,0.3944,Total Supply Chain Estimate
+348,Hungary,1346,plums and sloes,2013,0.3958,Total Supply Chain Estimate
+348,Hungary,1351.01,currants,2013,0.2959,Total Supply Chain Estimate
+348,Hungary,1353.01,raspberries,2013,1.3793,Total Supply Chain Estimate
+348,Hungary,1354,strawberries,2013,0.6289,Total Supply Chain Estimate
+348,Hungary,1371,"almonds, in shell",2013,15.3846,Total Supply Chain Estimate
+348,Hungary,141,soya beans,2013,0.1153,Total Supply Chain Estimate
+348,Hungary,1441,Linseed,2013,2.29,Total Supply Chain Estimate
+348,Hungary,1443,rapeseed or colza seed,2013,0.3944,Total Supply Chain Estimate
+348,Hungary,1445,sunflower seed,2013,0.9133,Total Supply Chain Estimate
+348,Hungary,1510,potatoes,2013,2.5854,Total Supply Chain Estimate
+348,Hungary,1701,"beans, dry",2013,0.5495,Total Supply Chain Estimate
+348,Hungary,1704,"lentils, dry",2013,1.6849,Total Supply Chain Estimate
+348,Hungary,231,"hen eggs in shell, fresh",2013,1.0937,Total Supply Chain Estimate
+348,Hungary,21111.01,"meat of cattle with the bone, fresh or chilled",2013,2.1316,Total Supply Chain Estimate
+348,Hungary,21121,"meat of chickens, fresh or chilled",2013,4.5038,Total Supply Chain Estimate
+348,Hungary,21151,"edible offal of cattle, fresh, chilled or frozen",2013,6.7306,Total Supply Chain Estimate
+348,Hungary,21153,"edible offal of pigs, fresh, chilled or frozen",2013,6.3642,Total Supply Chain Estimate
+360,Indonesia,112,maize (corn),2013,5.9421,Total Supply Chain Estimate
+360,Indonesia,112,maize (corn),2013,5.9421,Total Supply Chain Estimate
+360,Indonesia,112,maize (corn),2013,5.9421,Total Supply Chain Estimate
+360,Indonesia,113,Rice,2013,5,Processing
+360,Indonesia,113,Rice,2013,15,Processing
+360,Indonesia,113,rice,2013,5.3999,Total Supply Chain Estimate
+360,Indonesia,141,soya beans,2013,5.0675,Total Supply Chain Estimate
+360,Indonesia,142,"groundnuts, excluding shelled",2013,2.1377,Total Supply Chain Estimate
+360,Indonesia,1510,potatoes,2013,4.0026,Total Supply Chain Estimate
+360,Indonesia,1520.01,"cassava, fresh",2013,12.9925,Total Supply Chain Estimate
+360,Indonesia,1530,sweet potatoes,2013,8.7987,Total Supply Chain Estimate
+360,Indonesia,2211,raw milk of cattle,2013,5.0834,Total Supply Chain Estimate
+372,Ireland,111,wheat,2013,3.8511,Total Supply Chain Estimate
+372,Ireland,115,barley,2013,2.4056,Total Supply Chain Estimate
+372,Ireland,117,oats,2013,2.0779,Total Supply Chain Estimate
+372,Ireland,1359.9,other fruits n.e.c. ,2013,6.3984,Total Supply Chain Estimate
+372,Ireland,1510,potatoes,2013,2.6823,Total Supply Chain Estimate
+376,Israel,112,Maize (Corn),2013,1.36,Total Supply Chain Estimate
+376,Israel,112,maize (corn),2013,1.3627,Total Supply Chain Estimate
+376,Israel,112,maize (corn),2013,1.3627,Total Supply Chain Estimate
+376,Israel,112,maize (corn),2013,1.3627,Total Supply Chain Estimate
+376,Israel,114,sorghum,2013,0.4972,Total Supply Chain Estimate
+376,Israel,115,barley,2013,0.1893,Total Supply Chain Estimate
+376,Israel,1321,pomelos and grapefruits,2013,0.2848,Total Supply Chain Estimate
+376,Israel,1322,lemons and limes,2013,0.2801,Total Supply Chain Estimate
+376,Israel,1323,oranges,2013,0.5209,Total Supply Chain Estimate
+376,Israel,1341,apples,2013,2.6755,Total Supply Chain Estimate
+376,Israel,2211,raw milk of cattle,2013,0.6831,Total Supply Chain Estimate
+380,Italy,111,wheat,2013,0.4896,Total Supply Chain Estimate
+380,Italy,112,Maize (Corn),2013,0.12,Total Supply Chain Estimate
+380,Italy,112,maize (corn),2013,0.1219,Total Supply Chain Estimate
+380,Italy,112,maize (corn),2013,0.1219,Total Supply Chain Estimate
+380,Italy,112,maize (corn),2013,0.1219,Total Supply Chain Estimate
+380,Italy,117,oats,2013,2.5515,Total Supply Chain Estimate
+380,Italy,1213,cauliflowers and broccoli,2013,9.4331,Total Supply Chain Estimate
+380,Italy,1215,spinach,2013,11.0972,Total Supply Chain Estimate
+380,Italy,1234,tomatoes,2013,3.0068,Total Supply Chain Estimate
+380,Italy,1290.9,"other vegetables, fresh n.e.c.",2013,6.9767,Total Supply Chain Estimate
+380,Italy,1330,grapes,2013,0.6242,Total Supply Chain Estimate
+380,Italy,1443,rapeseed or colza seed,2013,1.886,Total Supply Chain Estimate
+380,Italy,1445,sunflower seed,2013,1.753,Total Supply Chain Estimate
+380,Italy,1450,olives,2013,0.153,Total Supply Chain Estimate
+380,Italy,1530,sweet potatoes,2013,0.9442,Total Supply Chain Estimate
+380,Italy,1709.01,vetches,2013,4.0063,Total Supply Chain Estimate
+380,Italy,1801,sugar beet,2013,0.9262,Total Supply Chain Estimate
+380,Italy,231,"hen eggs in shell, fresh",2013,0.2746,Total Supply Chain Estimate
+384,Cote d'Ivoire,1313,Plantain,2013,35,Total Supply Chain Estimate
+392,Japan,111,Wheat,2013,20.33,Total Supply Chain Estimate
+392,Japan,111,wheat,2013,2.3534,Total Supply Chain Estimate
+392,Japan,112,maize (corn),2013,0.0208,Total Supply Chain Estimate
+392,Japan,112,maize (corn),2013,0.0208,Total Supply Chain Estimate
+392,Japan,112,maize (corn),2013,0.0208,Total Supply Chain Estimate
+392,Japan,113,rice,2013,1.5152,Total Supply Chain Estimate
+392,Japan,115,barley,2013,7.6323,Total Supply Chain Estimate
+392,Japan,141,soya beans,2013,1.857,Total Supply Chain Estimate
+392,Japan,1510,Potatoes,2013,9.14,Total Supply Chain Estimate
+392,Japan,1510,potatoes,2013,8.4718,Total Supply Chain Estimate
+392,Japan,1530,sweet potatoes,2013,0.7429,Total Supply Chain Estimate
+392,Japan,1701,"beans, dry",2013,2.0689,Total Supply Chain Estimate
+392,Japan,21111.01,"Meat Of Cattle, Fresh Or Chilled",2013,4.92,Total Supply Chain Estimate
+392,Japan,21111.01,"meat of cattle with the bone, fresh or chilled",2013,4.9214,Total Supply Chain Estimate
+392,Japan,21113.01,"Meat Of Pig, Fresh Or Chilled",2013,3.74,Total Supply Chain Estimate
+392,Japan,21113.01,"meat of pig with the bone, fresh or chilled",2013,3.7421,Total Supply Chain Estimate
+398,Kazakhstan,118,millet,2013,0.5509,Total Supply Chain Estimate
+398,Kazakhstan,1221,watermelons,2013,7.3502,Total Supply Chain Estimate
+398,Kazakhstan,1445,sunflower seed,2013,2.3922,Total Supply Chain Estimate
+398,Kazakhstan,1510,Potatoes,2013,21.33,Total Supply Chain Estimate
+398,Kazakhstan,1510,Potatoes,2013,9.13,Total Supply Chain Estimate
+398,Kazakhstan,1510,potatoes,2013,9.1309,Total Supply Chain Estimate
+398,Kazakhstan,1801,sugar beet,2013,2.1669,Total Supply Chain Estimate
+398,Kazakhstan,2211,raw milk of cattle,2013,0.6134,Total Supply Chain Estimate
+398,Kazakhstan,231,"hen eggs in shell, fresh",2013,12.9834,Total Supply Chain Estimate
+398,Kazakhstan,21111.01,"meat of cattle with the bone, fresh or chilled",2013,4.7722,Total Supply Chain Estimate
+4,Afghanistan,111,Wheat,2013,14.99,Total Supply Chain Estimate
+4,Afghanistan,111,wheat,2013,14.9925,Total Supply Chain Estimate
+4,Afghanistan,112,Maize (Corn),2013,15.06,Total Supply Chain Estimate
+4,Afghanistan,112,maize (corn),2013,15.0641,Total Supply Chain Estimate
+4,Afghanistan,112,maize (corn),2013,15.0641,Total Supply Chain Estimate
+4,Afghanistan,112,maize (corn),2013,15.0641,Total Supply Chain Estimate
+4,Afghanistan,113,rice,2013,7.03,Total Supply Chain Estimate
+4,Afghanistan,115,Barley,2013,14.98,Total Supply Chain Estimate
+4,Afghanistan,115,barley,2013,14.9805,Total Supply Chain Estimate
+40,Austria,111,Wheat,2013,2.51,Total Supply Chain Estimate
+40,Austria,111,wheat,2013,2.5061,Total Supply Chain Estimate
+40,Austria,112,Maize (Corn),2013,3.14,Total Supply Chain Estimate
+40,Austria,112,maize (corn),2013,3.1367,Total Supply Chain Estimate
+40,Austria,112,maize (corn),2013,3.1367,Total Supply Chain Estimate
+40,Austria,112,maize (corn),2013,3.1367,Total Supply Chain Estimate
+40,Austria,115,Barley,2013,3.25,Total Supply Chain Estimate
+40,Austria,115,barley,2013,3.2507,Total Supply Chain Estimate
+40,Austria,116,rye,2013,2.6388,Total Supply Chain Estimate
+40,Austria,117,Oats,2013,3.45,Total Supply Chain Estimate
+40,Austria,117,oats,2013,3.4439,Total Supply Chain Estimate
+40,Austria,1191,triticale,2013,3.7534,Total Supply Chain Estimate
+40,Austria,1199.02,mixed grain,2013,8.0604,Total Supply Chain Estimate
+40,Austria,1341,apples,2013,13.9238,Total Supply Chain Estimate
+40,Austria,1342.01,pears,2013,16.3144,Total Supply Chain Estimate
+40,Austria,1343,apricots,2013,5.3697,Total Supply Chain Estimate
+40,Austria,1354,strawberries,2013,9.1226,Total Supply Chain Estimate
+40,Austria,141,soya beans,2013,2.9995,Total Supply Chain Estimate
+40,Austria,1441,Linseed,2013,20.77,Total Supply Chain Estimate
+40,Austria,1441,linseed,2013,1.5693,Total Supply Chain Estimate
+40,Austria,1443,Rapeseed Or Colza Seed,2013,5.45,Total Supply Chain Estimate
+40,Austria,1443,rapeseed or colza seed,2013,5.453,Total Supply Chain Estimate
+40,Austria,1445,sunflower seed,2013,2.4997,Total Supply Chain Estimate
+40,Austria,1448,Poppy Seed,2013,4.45,Total Supply Chain Estimate
+40,Austria,1448,poppy seed,2013,4.4514,Total Supply Chain Estimate
+40,Austria,1510,Potatoes,2013,8,Total Supply Chain Estimate
+40,Austria,1510,potatoes,2013,8,Total Supply Chain Estimate
+40,Austria,1702,"Broad Beans And Horse Beans, Dry",2013,3,Total Supply Chain Estimate
+40,Austria,1702,"broad beans and horse beans, dry",2013,3.0034,Total Supply Chain Estimate
+40,Austria,1705,"Peas, Dry",2013,3,Total Supply Chain Estimate
+40,Austria,1705,"peas, dry",2013,2.9996,Total Supply Chain Estimate
+40,Austria,1709.9,other pulses n.e.c.,2013,4.2803,Total Supply Chain Estimate
+40,Austria,2211,raw milk of cattle,2013,1,Total Supply Chain Estimate
+40,Austria,2291,raw milk of sheep,2013,1.0016,Total Supply Chain Estimate
+40,Austria,2292,raw milk of goats,2013,1.002,Total Supply Chain Estimate
+400,Jordan,1510,potatoes,2013,17.2218,Total Supply Chain Estimate
+404,Kenya,112,Maize (Corn),2013,2.2,Producer
+404,Kenya,112,Maize (Corn),2013,5.6,Producer
+404,Kenya,112,Maize (Corn),2013,8.5,Harvest
+404,Kenya,112,Maize (Corn),2013,2.2,Producer
+404,Kenya,112,Maize (Corn),2013,5.6,Storage
+404,Kenya,113,Rice,2013,11.2,Harvest
+404,Kenya,114,Sorghum,2013,11.3,Harvest
+404,Kenya,118,Millet,2013,10.8,Harvest
+404,Kenya,1316,Mangoes,2013,20.5,Processing
+404,Kenya,1316,Mangoes,2013,1.5,Export
+404,Kenya,1316,Mangoes,2013,12,Processing
+404,Kenya,1316,Mangoes,2013,40,Producer
+410,Republic of Korea,111,wheat,2013,0.6383,Total Supply Chain Estimate
+410,Republic of Korea,113,rice,2013,8.7718,Total Supply Chain Estimate
+410,Republic of Korea,141,soya beans,2013,5.1925,Total Supply Chain Estimate
+417,Kyrgyzstan,113,rice,2013,0.1102,Total Supply Chain Estimate
+417,Kyrgyzstan,1510,potatoes,2013,4.6546,Total Supply Chain Estimate
+426,Lesotho,111,Wheat,2013,7.4,Harvest
+426,Lesotho,112,Maize (Corn),2013,2.9,Producer
+426,Lesotho,112,Maize (Corn),2013,2.9,Storage
+428,Latvia,1443,rapeseed or colza seed,2013,0.9777,Total Supply Chain Estimate
+428,Latvia,2211,raw milk of cattle,2013,0.2193,Total Supply Chain Estimate
+428,Latvia,21113.01,"meat of pig with the bone, fresh or chilled",2013,1.6702,Total Supply Chain Estimate
+440,Lithuania,111,wheat,2013,0.6373,Total Supply Chain Estimate
+440,Lithuania,115,barley,2013,2.2167,Total Supply Chain Estimate
+440,Lithuania,1290.9,"other vegetables, fresh n.e.c.",2013,20.6101,Total Supply Chain Estimate
+440,Lithuania,1510,potatoes,2013,6.8699,Total Supply Chain Estimate
+440,Lithuania,231,"hen eggs in shell, fresh",2013,0.0233,Total Supply Chain Estimate
+442,Luxembourg,111,wheat,2013,2.1964,Total Supply Chain Estimate
+442,Luxembourg,1510,Potatoes,2013,9,Total Supply Chain Estimate
+442,Luxembourg,1510,potatoes,2013,8.5519,Total Supply Chain Estimate
+442,Luxembourg,1701,"beans, dry",2013,12.987,Total Supply Chain Estimate
+450,Madagascar,112,Maize (Corn),2013,1.5,Harvest
+450,Madagascar,112,Maize (Corn),2013,2.5,Transport
+450,Madagascar,114,Sorghum,2013,1.5,Harvest
+450,Madagascar,114,Sorghum,2013,2.5,Transport
+450,Madagascar,118,Millet,2013,1.5,Harvest
+450,Madagascar,118,Millet,2013,2.5,Transport
+450,Madagascar,142,Groundnut,2013,1.5,Harvest
+450,Madagascar,142,Groundnut,2013,2.5,Transport
+450,Madagascar,1520.01,"cassava, fresh",2013,3.3712,Total Supply Chain Estimate
+454,Malawi,112,Maize (Corn),2013,1.6,Producer
+454,Malawi,112,Maize (Corn),2013,3.9,Producer
+454,Malawi,112,Maize (Corn),2013,5.5,Harvest
+454,Malawi,112,Maize (Corn),2013,3.9,Storage
+454,Malawi,113,Rice,2013,5.7,Harvest
+454,Malawi,141,soya beans,2013,6.2513,Total Supply Chain Estimate
+470,Malta,111,wheat,2013,2.9316,Total Supply Chain Estimate
+478,Mauritania,114,sorghum,2013,8.7941,Total Supply Chain Estimate
+478,Mauritania,118,Millet,2013,1.1,Producer
+480,Mauritius,112,maize (corn),2013,0.4483,Total Supply Chain Estimate
+480,Mauritius,112,maize (corn),2013,0.4483,Total Supply Chain Estimate
+480,Mauritius,112,maize (corn),2013,0.4483,Total Supply Chain Estimate
+480,Mauritius,1510,potatoes,2013,4.3219,Total Supply Chain Estimate
+484,Mexico,113,Rice,2013,46.87,Total Supply Chain Estimate
+484,Mexico,1229,Melon,2013,41.24,Total Supply Chain Estimate
+484,Mexico,1233,Eggplant,2013,49.07,Total Supply Chain Estimate
+484,Mexico,1234,Tomatoes,2013,28.86,Total Supply Chain Estimate
+484,Mexico,1234,"Tomatoes, green",2013,17.78,Total Supply Chain Estimate
+484,Mexico,1235,Zucchini,2013,14.65,Total Supply Chain Estimate
+484,Mexico,1251,Carrots,2013,19.01,Total Supply Chain Estimate
+484,Mexico,1252,Garlic,2013,21.35,Total Supply Chain Estimate
+484,Mexico,1311,Avocados,2013,53.97,Total Supply Chain Estimate
+484,Mexico,1313,Plantain,2013,53.76,Total Supply Chain Estimate
+484,Mexico,1316,Mangoes,2013,54.54,Total Supply Chain Estimate
+484,Mexico,1317,Papayas,2013,22.8,Total Supply Chain Estimate
+484,Mexico,1318,Pineapples,2013,32.78,Total Supply Chain Estimate
+484,Mexico,1322,Lemons And Limes,2013,33.38,Total Supply Chain Estimate
+484,Mexico,1323,Oranges,2013,23.22,Total Supply Chain Estimate
+484,Mexico,1330,Grapes,2013,45.53,Total Supply Chain Estimate
+484,Mexico,1510,Potatoes,2013,37.11,Total Supply Chain Estimate
+484,Mexico,1651,Pepper,2013,45.46,Total Supply Chain Estimate
+484,Mexico,1652,Chilli,2013,44.14,Total Supply Chain Estimate
+484,Mexico,1701,Beans,2013,24.96,Total Supply Chain Estimate
+484,Mexico,2211,"Milk, Cow",2013,37.14,Total Supply Chain Estimate
+484,Mexico,231,Eggs,2013,37.66,Total Supply Chain Estimate
+484,Mexico,21111.01,"Meat Of Cattle, Fresh Or Chilled",2013,34.87,Total Supply Chain Estimate
+484,Mexico,21113.01,"Meat Of Pig, Fresh Or Chilled",2013,40.91,Total Supply Chain Estimate
+498,Republic of Moldova,1212,cabbages,2013,4.8299,Total Supply Chain Estimate
+498,Republic of Moldova,1445,sunflower seed,2013,1.4272,Total Supply Chain Estimate
+498,Republic of Moldova,1510,potatoes,2013,0.5846,Total Supply Chain Estimate
+50,Bangladesh,1802,sugar cane,2013,0.0902,Total Supply Chain Estimate
+504,Morocco,1450,olives,2013,12.6938,Total Supply Chain Estimate
+51,Armenia,111,Wheat,2013,5.2,Total Supply Chain Estimate
+51,Armenia,111,wheat,2013,5.1997,Total Supply Chain Estimate
+51,Armenia,112,Maize (Corn),2013,31.09,Total Supply Chain Estimate
+51,Armenia,112,maize (corn),2013,6.401,Total Supply Chain Estimate
+51,Armenia,112,maize (corn),2013,6.401,Total Supply Chain Estimate
+51,Armenia,112,maize (corn),2013,6.401,Total Supply Chain Estimate
+51,Armenia,115,barley,2013,7.8927,Total Supply Chain Estimate
+51,Armenia,117,Oats,2013,2.17,Total Supply Chain Estimate
+51,Armenia,117,oats,2013,2.1654,Total Supply Chain Estimate
+51,Armenia,1199.9,other cereals n.e.c.,2013,5.3422,Total Supply Chain Estimate
+51,Armenia,1221,watermelons,2013,1.2015,Total Supply Chain Estimate
+51,Armenia,1510,potatoes,2013,14.5645,Total Supply Chain Estimate
+524,Nepal,111,wheat,2013,10.0154,Total Supply Chain Estimate
+524,Nepal,112,maize (corn),2013,10.5052,Total Supply Chain Estimate
+524,Nepal,112,maize (corn),2013,10.5052,Total Supply Chain Estimate
+524,Nepal,112,maize (corn),2013,10.5052,Total Supply Chain Estimate
+524,Nepal,115,barley,2013,7.1044,Total Supply Chain Estimate
+524,Nepal,1510,potatoes,2013,15.0014,Total Supply Chain Estimate
+528,Netherlands,111,wheat,2013,2.1721,Total Supply Chain Estimate
+528,Netherlands,112,maize (corn),2013,0.6744,Total Supply Chain Estimate
+528,Netherlands,112,maize (corn),2013,0.6744,Total Supply Chain Estimate
+528,Netherlands,112,maize (corn),2013,0.6744,Total Supply Chain Estimate
+528,Netherlands,1341,apples,2013,0.6369,Total Supply Chain Estimate
+528,Netherlands,1510,potatoes,2013,2.8129,Total Supply Chain Estimate
+528,Netherlands,231,"hen eggs in shell, fresh",2013,0.2861,Total Supply Chain Estimate
+554,New Zealand,115,barley,2013,2.161,Total Supply Chain Estimate
+554,New Zealand,117,oats,2013,4.2516,Total Supply Chain Estimate
+554,New Zealand,231,"hen eggs in shell, fresh",2013,3.7736,Total Supply Chain Estimate
+558,Nicaragua,112,maize (corn),2013,27.3382,Total Supply Chain Estimate
+558,Nicaragua,112,maize (corn),2013,27.3382,Total Supply Chain Estimate
+558,Nicaragua,112,maize (corn),2013,27.3382,Total Supply Chain Estimate
+558,Nicaragua,113,rice,2013,1.8552,Total Supply Chain Estimate
+56,Belgium,111,wheat,2013,1.5525,Total Supply Chain Estimate
+56,Belgium,112,maize (corn),2013,0.9674,Total Supply Chain Estimate
+56,Belgium,112,maize (corn),2013,0.9674,Total Supply Chain Estimate
+56,Belgium,112,maize (corn),2013,0.9674,Total Supply Chain Estimate
+56,Belgium,115,barley,2013,8.8171,Total Supply Chain Estimate
+56,Belgium,116,rye,2013,0.3302,Total Supply Chain Estimate
+56,Belgium,117,oats,2013,1.9434,Total Supply Chain Estimate
+56,Belgium,1341,apples,2013,0.8737,Total Supply Chain Estimate
+56,Belgium,1510,potatoes,2013,4.5799,Total Supply Chain Estimate
+566,Nigeria,112,Maize (Corn),2013,1,Processing
+566,Nigeria,112,Maize (Corn),2013,1.53,Producer
+566,Nigeria,112,Maize (Corn),2013,1.95,Transport
+566,Nigeria,112,Maize (Corn),2013,2,Transport
+566,Nigeria,112,Maize (Corn),2013,2,Storage
+566,Nigeria,112,Maize (Corn),2013,2,Storage
+566,Nigeria,112,Maize (Corn),2013,2,Processing
+566,Nigeria,112,Maize (Corn),2013,2,Producer
+566,Nigeria,112,Maize (Corn),2013,2.27,Producer
+566,Nigeria,112,Maize (Corn),2013,2.5,Wholesale
+566,Nigeria,112,Maize (Corn),2013,2.8,Processing
+566,Nigeria,112,Maize (Corn),2013,3,Transport
+566,Nigeria,112,Maize (Corn),2013,3.7,Transport
+566,Nigeria,112,Maize (Corn),2013,4.03,Harvest
+566,Nigeria,112,Maize (Corn),2013,5,Wholesale
+566,Nigeria,112,Maize (Corn),2013,6,Wholesale
+566,Nigeria,112,Maize (Corn),2013,8.5,Storage
+566,Nigeria,112,Maize (Corn),2013,8.5,Wholesale
+566,Nigeria,112,Maize (Corn),2013,1,Processing
+566,Nigeria,112,Maize (Corn),2013,1.53,Producer
+566,Nigeria,112,Maize (Corn),2013,1.95,Transport
+566,Nigeria,112,Maize (Corn),2013,2,Transport
+566,Nigeria,112,Maize (Corn),2013,2,Storage
+566,Nigeria,112,Maize (Corn),2013,2,Storage
+566,Nigeria,112,Maize (Corn),2013,2,Processing
+566,Nigeria,112,Maize (Corn),2013,2,Producer
+566,Nigeria,112,Maize (Corn),2013,2.27,Producer
+566,Nigeria,112,Maize (Corn),2013,2.5,Wholesale
+566,Nigeria,112,Maize (Corn),2013,2.8,Processing
+566,Nigeria,112,Maize (Corn),2013,3,Transport
+566,Nigeria,112,Maize (Corn),2013,3.7,Transport
+566,Nigeria,112,Maize (Corn),2013,4.03,Harvest
+566,Nigeria,112,Maize (Corn),2013,5,Wholesale
+566,Nigeria,112,Maize (Corn),2013,6,Wholesale
+566,Nigeria,112,Maize (Corn),2013,8.5,Storage
+566,Nigeria,112,Maize (Corn),2013,8.5,Wholesale
+566,Nigeria,112,Maize (Corn),2013,5.5,Producer
+566,Nigeria,112,Maize (Corn),2013,5.5,Storage
+566,Nigeria,113,Rice,2013,0.5,Storage
+578,Norway,111,wheat,2013,3.5344,Total Supply Chain Estimate
+578,Norway,115,barley,2013,3.8812,Total Supply Chain Estimate
+578,Norway,116,rye,2013,6.2844,Total Supply Chain Estimate
+578,Norway,117,oats,2013,5.7984,Total Supply Chain Estimate
+578,Norway,1510,Potatoes,2013,11.16,Total Supply Chain Estimate
+578,Norway,1510,potatoes,2013,2.2013,Total Supply Chain Estimate
+586,Pakistan,1346,Plums And Sloes,2013,21.51,Retail
+586,Pakistan,1346,Plums And Sloes,2013,21.51,Retail
+591,Panama,112,Maize (Corn),2013,2,Total Supply Chain Estimate
+591,Panama,112,maize (corn),2013,1.4355,Total Supply Chain Estimate
+591,Panama,112,maize (corn),2013,1.4355,Total Supply Chain Estimate
+591,Panama,112,maize (corn),2013,1.4355,Total Supply Chain Estimate
+591,Panama,113,rice,2013,1.9506,Total Supply Chain Estimate
+591,Panama,1232,Cucumbers And Gherkins,2013,5,Total Supply Chain Estimate
+591,Panama,1232,cucumbers and gherkins,2013,4.9982,Total Supply Chain Estimate
+591,Panama,1317,Papayas,2013,5,Total Supply Chain Estimate
+591,Panama,1317,papayas,2013,4.9959,Total Supply Chain Estimate
+591,Panama,1318,Pineapples,2013,5.41,Total Supply Chain Estimate
+591,Panama,1318,pineapples,2013,5.4064,Total Supply Chain Estimate
+591,Panama,1460,"Coconuts, In Shell",2013,6.19,Total Supply Chain Estimate
+591,Panama,1510,Potatoes,2013,10,Total Supply Chain Estimate
+591,Panama,1510,potatoes,2013,12.1226,Total Supply Chain Estimate
+591,Panama,1520.01,"cassava, fresh",2013,3.6541,Total Supply Chain Estimate
+591,Panama,1540,Yams,2013,4.49,Total Supply Chain Estimate
+591,Panama,1540,yams,2013,5.4285,Total Supply Chain Estimate
+591,Panama,1591,Yautia,2013,4.59,Total Supply Chain Estimate
+591,Panama,1591,yautia ,2013,5.0827,Total Supply Chain Estimate
+591,Panama,1701,"Beans, Dry",2013,2.01,Total Supply Chain Estimate
+591,Panama,1701,"beans, dry",2013,1.7369,Total Supply Chain Estimate
+591,Panama,1707,"Pigeon Peas, Dry",2013,2.08,Total Supply Chain Estimate
+591,Panama,1707,"pigeon peas, dry",2013,1.9767,Total Supply Chain Estimate
+591,Panama,1709.9,other pulses n.e.c.,2013,1.5012,Total Supply Chain Estimate
+591,Panama,1802,sugar cane,2013,0.9168,Total Supply Chain Estimate
+591,Panama,2211,Raw Milk Of Cattle,2013,1,Total Supply Chain Estimate
+591,Panama,2211,raw milk of cattle,2013,1.0002,Total Supply Chain Estimate
+591,Panama,231,"Hen Eggs In Shell, Fresh",2013,5.02,Total Supply Chain Estimate
+591,Panama,231,"hen eggs in shell, fresh",2013,3.6997,Total Supply Chain Estimate
+591,Panama,21111.01,"Meat Of Cattle, Fresh Or Chilled",2013,5.08,Total Supply Chain Estimate
+591,Panama,21111.01,"meat of cattle with the bone, fresh or chilled",2013,5.0532,Total Supply Chain Estimate
+591,Panama,21113.01,"Meat Of Pig, Fresh Or Chilled",2013,5,Total Supply Chain Estimate
+591,Panama,21113.01,"meat of pig with the bone, fresh or chilled",2013,4.9987,Total Supply Chain Estimate
+591,Panama,21121,"Meat Of Chickens, Fresh Or Chilled",2013,1.06,Total Supply Chain Estimate
+591,Panama,21121,"meat of chickens, fresh or chilled",2013,0.9928,Total Supply Chain Estimate
+604,Peru,1254,leeks and other alliaceous vegetables,2013,35.8927,Total Supply Chain Estimate
+604,Peru,1313,plantains and others,2013,26.4794,Total Supply Chain Estimate
+604,Peru,1329,"other citrus fruit, n.e.c.",2013,17.2102,Total Supply Chain Estimate
+604,Peru,1343,apricots,2013,32.3717,Total Supply Chain Estimate
+604,Peru,1344.02,cherries,2013,96.7492,Total Supply Chain Estimate
+604,Peru,1373,"chestnuts, in shell",2013,7.9573,Total Supply Chain Estimate
+604,Peru,1379.9,"other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",2013,4.8632,Total Supply Chain Estimate
+604,Peru,1510,potatoes,2013,24.0665,Total Supply Chain Estimate
+604,Peru,1530,sweet potatoes,2013,13.6932,Total Supply Chain Estimate
+604,Peru,1610,"coffee, green",2013,3.9026,Total Supply Chain Estimate
+604,Peru,1651,"pepper (piper spp.), raw",2013,2.5678,Total Supply Chain Estimate
+604,Peru,2211,raw milk of cattle,2013,1.936,Total Supply Chain Estimate
+604,Peru,231,"hen eggs in shell, fresh",2013,10.5777,Total Supply Chain Estimate
+604,Peru,21111.01,"meat of cattle with the bone, fresh or chilled",2013,27.9666,Total Supply Chain Estimate
+604,Peru,21113.01,"meat of pig with the bone, fresh or chilled",2013,14.0973,Total Supply Chain Estimate
+604,Peru,21115,"meat of sheep, fresh or chilled",2013,28.6484,Total Supply Chain Estimate
+604,Peru,21116,"meat of goat, fresh or chilled",2013,15.5304,Total Supply Chain Estimate
+604,Peru,21117.02,"meat of other domestic camelids, fresh or chilled",2013,17.2727,Total Supply Chain Estimate
+604,Peru,21121,"meat of chickens, fresh or chilled",2013,18.3362,Total Supply Chain Estimate
+604,Peru,21151,"edible offal of cattle, fresh, chilled or frozen",2013,1.0684,Total Supply Chain Estimate
+608,Philippines,112,Maize (Corn),2013,1,Producer
+608,Philippines,112,Maize (Corn),2013,1.3,Harvest
+608,Philippines,112,Maize (Corn),2013,2.7,Producer
+608,Philippines,112,Maize (Corn),2013,3.1,Producer
+608,Philippines,112,Maize (Corn),2013,4.6,Producer
+608,Philippines,112,Maize (Corn),2013,9,Total Supply Chain Estimate
+608,Philippines,112,Maize (Corn),2013,1,Producer
+608,Philippines,112,Maize (Corn),2013,1.3,Harvest
+608,Philippines,112,Maize (Corn),2013,2.7,Producer
+608,Philippines,112,Maize (Corn),2013,3.1,Producer
+608,Philippines,112,Maize (Corn),2013,4.6,Producer
+608,Philippines,112,Maize (Corn),2013,9,Total Supply Chain Estimate
+608,Philippines,112,maize (corn),2013,0.8133,Total Supply Chain Estimate
+608,Philippines,112,maize (corn),2013,0.8133,Total Supply Chain Estimate
+608,Philippines,112,maize (corn),2013,0.8133,Total Supply Chain Estimate
+608,Philippines,113,rice,2013,0.9762,Total Supply Chain Estimate
+608,Philippines,231,"hen eggs in shell, fresh",2013,3.0396,Total Supply Chain Estimate
+616,Poland,111,wheat,2013,4.7442,Total Supply Chain Estimate
+616,Poland,112,maize (corn),2013,3.7131,Total Supply Chain Estimate
+616,Poland,112,maize (corn),2013,3.7131,Total Supply Chain Estimate
+616,Poland,112,maize (corn),2013,3.7131,Total Supply Chain Estimate
+616,Poland,115,barley,2013,5.1132,Total Supply Chain Estimate
+616,Poland,116,rye,2013,3.5722,Total Supply Chain Estimate
+616,Poland,117,oats,2013,5.8822,Total Supply Chain Estimate
+616,Poland,1191,triticale,2013,1.1701,Total Supply Chain Estimate
+616,Poland,1192,buckwheat,2013,4.4017,Total Supply Chain Estimate
+616,Poland,1212,cabbages,2013,7.8245,Total Supply Chain Estimate
+616,Poland,1213,cauliflowers and broccoli,2013,10.1438,Total Supply Chain Estimate
+616,Poland,1232,cucumbers and gherkins,2013,14.628,Total Supply Chain Estimate
+616,Poland,1234,tomatoes,2013,9.6441,Total Supply Chain Estimate
+616,Poland,1251,carrots and turnips,2013,9.4274,Total Supply Chain Estimate
+616,Poland,1253.02,"onions and shallots, dry (excluding dehydrated)",2013,12.7025,Total Supply Chain Estimate
+616,Poland,1341,apples,2013,2.9173,Total Supply Chain Estimate
+616,Poland,1344.01,sour cherries,2013,4.7815,Total Supply Chain Estimate
+616,Poland,1344.02,cherries,2013,6.3089,Total Supply Chain Estimate
+616,Poland,1346,plums and sloes,2013,3.9062,Total Supply Chain Estimate
+616,Poland,1354,strawberries,2013,5.1908,Total Supply Chain Estimate
+616,Poland,1510,potatoes,2013,5.4866,Total Supply Chain Estimate
+616,Poland,231,"hen eggs in shell, fresh",2013,0.1791,Total Supply Chain Estimate
+620,Portugal,111,wheat,2013,4.3472,Total Supply Chain Estimate
+620,Portugal,112,maize (corn),2013,1.6137,Total Supply Chain Estimate
+620,Portugal,112,maize (corn),2013,1.6137,Total Supply Chain Estimate
+620,Portugal,112,maize (corn),2013,1.6137,Total Supply Chain Estimate
+620,Portugal,113,rice,2013,0.222,Total Supply Chain Estimate
+620,Portugal,116,rye,2013,7.6881,Total Supply Chain Estimate
+620,Portugal,1510,potatoes,2013,5.5368,Total Supply Chain Estimate
+624,Guinea-Bissau,1313,Plantain,2013,35,Total Supply Chain Estimate
+642,Romania,111,wheat,2013,0.1987,Total Supply Chain Estimate
+642,Romania,112,Maize (Corn),2013,0.46,Total Supply Chain Estimate
+642,Romania,112,maize (corn),2013,0.3538,Total Supply Chain Estimate
+642,Romania,112,maize (corn),2013,0.3538,Total Supply Chain Estimate
+642,Romania,112,maize (corn),2013,0.3538,Total Supply Chain Estimate
+642,Romania,115,Barley,2013,0.09,Total Supply Chain Estimate
+642,Romania,117,Oats,2013,0.48,Total Supply Chain Estimate
+642,Romania,1212,cabbages,2013,1.0356,Total Supply Chain Estimate
+642,Romania,1229,cantaloupes and other melons,2013,11.0563,Total Supply Chain Estimate
+642,Romania,1232,cucumbers and gherkins,2013,9.4989,Total Supply Chain Estimate
+642,Romania,1234,tomatoes,2013,3.2037,Total Supply Chain Estimate
+642,Romania,1253.02,"onions and shallots, dry (excluding dehydrated)",2013,1.0208,Total Supply Chain Estimate
+642,Romania,1330,grapes,2013,2.9751,Total Supply Chain Estimate
+642,Romania,1341,apples,2013,0.3894,Total Supply Chain Estimate
+642,Romania,1344.02,cherries,2013,0.9941,Total Supply Chain Estimate
+642,Romania,1346,plums and sloes,2013,0.0976,Total Supply Chain Estimate
+642,Romania,1510,Potatoes,2013,7.49,Total Supply Chain Estimate
+642,Romania,1510,potatoes,2013,1.5199,Total Supply Chain Estimate
+642,Romania,1701,"Beans, Dry",2013,0.03,Total Supply Chain Estimate
+643,Russian Federation,111,wheat,2013,0.6009,Total Supply Chain Estimate
+643,Russian Federation,112,maize (corn),2013,1.0039,Total Supply Chain Estimate
+643,Russian Federation,112,maize (corn),2013,1.0039,Total Supply Chain Estimate
+643,Russian Federation,112,maize (corn),2013,1.0039,Total Supply Chain Estimate
+643,Russian Federation,113,rice,2013,2.0001,Total Supply Chain Estimate
+643,Russian Federation,115,barley,2013,1.0072,Total Supply Chain Estimate
+643,Russian Federation,1199.9,other cereals n.e.c.,2013,6.2776,Total Supply Chain Estimate
+643,Russian Federation,1212,cabbages,2013,1.9526,Total Supply Chain Estimate
+643,Russian Federation,1510,Potatoes,2013,6.57,Total Supply Chain Estimate
+643,Russian Federation,1510,potatoes,2013,6.5694,Total Supply Chain Estimate
+643,Russian Federation,1704,"lentils, dry",2013,2.406,Total Supply Chain Estimate
+643,Russian Federation,1705,"peas, dry",2013,6.5029,Total Supply Chain Estimate
+643,Russian Federation,2211,Raw Milk Of Cattle,2013,0.11,Total Supply Chain Estimate
+643,Russian Federation,2211,raw milk of cattle,2013,0.106,Total Supply Chain Estimate
+643,Russian Federation,231,"Hen Eggs In Shell, Fresh",2013,0.21,Total Supply Chain Estimate
+643,Russian Federation,231,"hen eggs in shell, fresh",2013,0.2109,Total Supply Chain Estimate
+643,Russian Federation,21153,"edible offal of pigs, fresh, chilled or frozen",2013,1.6967,Total Supply Chain Estimate
+646,Rwanda,111,Wheat,2013,14.8,Storage
+646,Rwanda,111,Wheat,2013,26,Storage
+646,Rwanda,111,Wheat,2013,26.7,Storage
+646,Rwanda,111,Wheat,2013,14.8,Storage
+646,Rwanda,111,Wheat,2013,26,Storage
+646,Rwanda,111,Wheat,2013,26.7,Storage
+646,Rwanda,112,Maize (Corn),2013,10.4,Storage
+646,Rwanda,112,Maize (Corn),2013,10.4,Storage
+646,Rwanda,113,Rice,2013,8.3,Storage
+682,Saudi Arabia,111,wheat,2013,8.483,Total Supply Chain Estimate
+682,Saudi Arabia,21156,"edible offal of goat, fresh, chilled or frozen",2013,24.7175,Total Supply Chain Estimate
+686,Senegal,112,Maize (Corn),2013,3.9,Producer
+686,Senegal,112,Maize (Corn),2013,3.9,Storage
+686,Senegal,114,Sorghum,2013,2,Storage
+686,Senegal,118,Millet,2013,0.6,Producer
+686,Senegal,142,"groundnuts, excluding shelled",2013,2.2142,Total Supply Chain Estimate
+688,Serbia,2211,Raw Milk Of Cattle,2013,0.12,Total Supply Chain Estimate
+688,Serbia,2291,Raw Milk Of Sheep,2013,0.07,Total Supply Chain Estimate
+688,Serbia,2292,Raw Milk Of Goats,2013,0.02,Total Supply Chain Estimate
+688,Serbia,231,"Hen Eggs In Shell, Fresh",2013,0.37,Total Supply Chain Estimate
+688,Serbia,2910,Natural Honey,2013,0.79,Total Supply Chain Estimate
+703,Slovakia,111,wheat,2013,1.7812,Total Supply Chain Estimate
+703,Slovakia,112,maize (corn),2013,4.8962,Total Supply Chain Estimate
+703,Slovakia,112,maize (corn),2013,4.8962,Total Supply Chain Estimate
+703,Slovakia,112,maize (corn),2013,4.8962,Total Supply Chain Estimate
+703,Slovakia,115,barley,2013,1.3451,Total Supply Chain Estimate
+703,Slovakia,116,rye,2013,2.313,Total Supply Chain Estimate
+703,Slovakia,117,oats,2013,9.1423,Total Supply Chain Estimate
+703,Slovakia,1510,potatoes,2013,0.9121,Total Supply Chain Estimate
+705,Slovenia,1510,potatoes,2013,4.8266,Total Supply Chain Estimate
+706,Somalia,112,Maize (Corn),2013,1.4,Producer
+706,Somalia,112,Maize (Corn),2013,1.6,Transport
+706,Somalia,112,Maize (Corn),2013,3.1,Producer
+706,Somalia,112,Maize (Corn),2013,9.5,Harvest
+706,Somalia,112,Maize (Corn),2013,3.1,Storage
+706,Somalia,114,Sorghum,2013,1.2,Storage
+716,Zimbabwe,112,Maize (Corn),2013,5.2,Harvest
+716,Zimbabwe,112,Maize (Corn),2013,5.8,Producer
+716,Zimbabwe,112,Maize (Corn),2013,5.8,Storage
+724,Spain,111,wheat,2013,0.439,Total Supply Chain Estimate
+724,Spain,112,maize (corn),2013,0.3971,Total Supply Chain Estimate
+724,Spain,112,maize (corn),2013,0.3971,Total Supply Chain Estimate
+724,Spain,112,maize (corn),2013,0.3971,Total Supply Chain Estimate
+724,Spain,116,rye,2013,0.7806,Total Supply Chain Estimate
+724,Spain,1234,tomatoes,2013,4.8983,Total Supply Chain Estimate
+724,Spain,1330,grapes,2013,0.3743,Total Supply Chain Estimate
+724,Spain,1510,potatoes,2013,6.0011,Total Supply Chain Estimate
+728,South Sudan,118,millet,2013,5.7143,Total Supply Chain Estimate
+729,Sudan,118,millet,2013,1.8349,Total Supply Chain Estimate
+729,Sudan,1444,sesame seed,2013,4.4484,Total Supply Chain Estimate
+740,Suriname,113,rice,2013,13.4336,Total Supply Chain Estimate
+752,Sweden,111,wheat,2013,2.6758,Total Supply Chain Estimate
+752,Sweden,115,barley,2013,2.2164,Total Supply Chain Estimate
+752,Sweden,116,rye,2013,2.1127,Total Supply Chain Estimate
+752,Sweden,1199.02,mixed grain,2013,2.1038,Total Supply Chain Estimate
+752,Sweden,1510,potatoes,2013,9.3041,Total Supply Chain Estimate
+756,Switzerland,111,wheat,2013,1.7095,Total Supply Chain Estimate
+756,Switzerland,112,maize (corn),2013,0.6536,Total Supply Chain Estimate
+756,Switzerland,112,maize (corn),2013,0.6536,Total Supply Chain Estimate
+756,Switzerland,112,maize (corn),2013,0.6536,Total Supply Chain Estimate
+756,Switzerland,115,barley,2013,1.0313,Total Supply Chain Estimate
+756,Switzerland,116,rye,2013,0.9749,Total Supply Chain Estimate
+756,Switzerland,117,oats,2013,1.2604,Total Supply Chain Estimate
+756,Switzerland,1191,triticale,2013,0.9916,Total Supply Chain Estimate
+756,Switzerland,1212,cabbages,2013,4.3695,Total Supply Chain Estimate
+756,Switzerland,1213,cauliflowers and broccoli,2013,5.703,Total Supply Chain Estimate
+756,Switzerland,1214,lettuce and chicory,2013,3.9714,Total Supply Chain Estimate
+756,Switzerland,1215,spinach,2013,7.2569,Total Supply Chain Estimate
+756,Switzerland,1231,"chillies and peppers, green (capsicum spp. and pimenta spp.)",2013,5.3138,Total Supply Chain Estimate
+756,Switzerland,1232,cucumbers and gherkins,2013,3.5661,Total Supply Chain Estimate
+756,Switzerland,1234,tomatoes,2013,3.6413,Total Supply Chain Estimate
+756,Switzerland,1241.9,"other beans, green",2013,14.5719,Total Supply Chain Estimate
+756,Switzerland,1242,"peas, green",2013,17.7755,Total Supply Chain Estimate
+756,Switzerland,1251,carrots and turnips,2013,3.22,Total Supply Chain Estimate
+756,Switzerland,1253.01,"onions and shallots, green",2013,0,Total Supply Chain Estimate
+756,Switzerland,1253.02,"onions and shallots, dry (excluding dehydrated)",2013,0.2033,Total Supply Chain Estimate
+756,Switzerland,1290.9,"other vegetables, fresh n.e.c.",2013,3.3754,Total Supply Chain Estimate
+756,Switzerland,1510,potatoes,2013,4.169,Total Supply Chain Estimate
+762,Tajikistan,1510,Potatoes,2013,7.39,Total Supply Chain Estimate
+762,Tajikistan,1510,potatoes,2013,7.3945,Total Supply Chain Estimate
+768,Togo,112,Maize (Corn),2013,5.1,Harvest
+768,Togo,112,Maize (Corn),2013,5.5,Producer
+768,Togo,112,Maize (Corn),2013,5.5,Storage
+768,Togo,118,millet,2013,9.3108,Total Supply Chain Estimate
+768,Togo,1193,Fonio,2013,3.5,Harvest
+780,Trinidad And Tobago,1235,Pumpkins,2013,55,Transport
+780,Trinidad And Tobago,1235,Pumpkins,2013,55,Transport
+792,Turkey,111,Wheat,2013,2.8175,Total Supply Chain Estimate
+792,Turkey,111,Wheat (Durum),2013,2.7405,Total Supply Chain Estimate
+792,Turkey,111,wheat,2013,10.4308,Total Supply Chain Estimate
+792,Turkey,112,Maize,2013,2.91,Total Supply Chain Estimate
+792,Turkey,112,maize (corn),2013,4,Total Supply Chain Estimate
+792,Turkey,112,maize (corn),2013,4,Total Supply Chain Estimate
+792,Turkey,112,maize (corn),2013,4,Total Supply Chain Estimate
+792,Turkey,113,Rice,2013,3.2175,Total Supply Chain Estimate
+792,Turkey,113,rice,2013,3.1111,Total Supply Chain Estimate
+792,Turkey,115,Barley,2013,2.35,Total Supply Chain Estimate
+792,Turkey,115,barley,2013,15,Total Supply Chain Estimate
+792,Turkey,116,Rye,2013,2.961,Total Supply Chain Estimate
+792,Turkey,116,rye,2013,14.7945,Total Supply Chain Estimate
+792,Turkey,117,Oats,2013,2.976,Total Supply Chain Estimate
+792,Turkey,117,oats,2013,15.0213,Total Supply Chain Estimate
+792,Turkey,1199.02,mixed grain,2013,30.2115,Total Supply Chain Estimate
+792,Turkey,1212,Cabbage,2013,9.6772,Total Supply Chain Estimate
+792,Turkey,1214,Lettuce,2013,9.702,Total Supply Chain Estimate
+792,Turkey,1215,Spinach,2013,9.5758,Total Supply Chain Estimate
+792,Turkey,1221,Water melon,2013,9.7242,Total Supply Chain Estimate
+792,Turkey,1229,Melon,2013,9.6973,Total Supply Chain Estimate
+792,Turkey,1232,Cucumber,2013,8.964,Total Supply Chain Estimate
+792,Turkey,1233,Eggplant,2013,9.6469,Total Supply Chain Estimate
+792,Turkey,1234,Tomato,2013,8.5942,Total Supply Chain Estimate
+792,Turkey,1235,Squash,2013,9.3599,Total Supply Chain Estimate
+792,Turkey,1242,Green pea,2013,9.8046,Total Supply Chain Estimate
+792,Turkey,1243,Green broad bean,2013,9.6791,Total Supply Chain Estimate
+792,Turkey,1243,Green bean,2013,9.756,Total Supply Chain Estimate
+792,Turkey,1251,Carrot,2013,9.0439,Total Supply Chain Estimate
+792,Turkey,1251,Radish,2013,9.7458,Total Supply Chain Estimate
+792,Turkey,1252,Dry garlic,2013,20.4774,Total Supply Chain Estimate
+792,Turkey,1254,Leek,2013,9.4809,Total Supply Chain Estimate
+792,Turkey,1312,Banana,2013,15.5802,Total Supply Chain Estimate
+792,Turkey,1315,Fig,2013,0.5132,Total Supply Chain Estimate
+792,Turkey,1321,Grape fruit,2013,1.594,Total Supply Chain Estimate
+792,Turkey,1322,Lemon,2013,2.8829,Total Supply Chain Estimate
+792,Turkey,1323,Orange,2013,6.3396,Total Supply Chain Estimate
+792,Turkey,1324,Mandarin,2013,3.5083,Total Supply Chain Estimate
+792,Turkey,1329,Citrus fruits (Toplam),2013,4.762,Total Supply Chain Estimate
+792,Turkey,1330,Grape,2013,5.9695,Total Supply Chain Estimate
+792,Turkey,1341,Apple,2013,5.8269,Total Supply Chain Estimate
+792,Turkey,1343,Apricot,2013,2.0761,Total Supply Chain Estimate
+792,Turkey,1345,Peach,2013,7.2812,Total Supply Chain Estimate
+792,Turkey,1346,Plum,2013,6.1167,Total Supply Chain Estimate
+792,Turkey,1354,Strawberry,2013,7.1361,Total Supply Chain Estimate
+792,Turkey,1371,Almond,2013,2.1509,Total Supply Chain Estimate
+792,Turkey,1373,Chestnut,2013,2.5392,Total Supply Chain Estimate
+792,Turkey,1374,Hazelnut,2013,0.5073,Total Supply Chain Estimate
+792,Turkey,1375,Pistachio,2013,3.658,Total Supply Chain Estimate
+792,Turkey,1376,Walnut,2013,2.5271,Total Supply Chain Estimate
+792,Turkey,141,Soya Beans,2013,1.2305,Total Supply Chain Estimate
+792,Turkey,1445,Sunflower,2013,3.3593,Total Supply Chain Estimate
+792,Turkey,1510,Potato,2013,2.9151,Total Supply Chain Estimate
+792,Turkey,1510,potatoes,2013,9.9866,Total Supply Chain Estimate
+792,Turkey,1620,Tea,2013,2.5547,Total Supply Chain Estimate
+792,Turkey,1651,Pepper,2013,9.045,Total Supply Chain Estimate
+792,Turkey,1701,Dry bean,2013,3.1492,Total Supply Chain Estimate
+792,Turkey,1703,Chickpea,2013,2.5538,Total Supply Chain Estimate
+792,Turkey,1704,Red lentil,2013,2.6981,Total Supply Chain Estimate
+792,Turkey,1704,Green lentil,2013,5.8426,Total Supply Chain Estimate
+792,Turkey,231,"hen eggs in shell, fresh",2013,4.9949,Total Supply Chain Estimate
+8,Albania,111,wheat,2013,7.6611,Total Supply Chain Estimate
+8,Albania,1234,tomatoes,2013,9.725,Total Supply Chain Estimate
+8,Albania,2211,raw milk of cattle,2013,8.5633,Total Supply Chain Estimate
+800,Uganda,112,Maize (Corn),2013,1.5,Transport
+800,Uganda,112,Maize (Corn),2013,1.5,Producer
+800,Uganda,112,Maize (Corn),2013,2.3,Producer
+800,Uganda,112,Maize (Corn),2013,3.9,Producer
+800,Uganda,112,Maize (Corn),2013,4.5,Producer
+800,Uganda,112,Maize (Corn),2013,5.9,Harvest
+800,Uganda,112,Maize (Corn),2013,2.3,Producer
+800,Uganda,112,Maize (Corn),2013,4.5,Storage
+800,Uganda,113,Rice,2013,4.4,Harvest
+800,Uganda,1313,Plantain,2013,6.45,Producer
+800,Uganda,1313,plantains and others,2013,3.2003,Total Supply Chain Estimate
+800,Uganda,1520.01,"cassava, fresh",2013,2.6855,Total Supply Chain Estimate
+804,Ukraine,111,Wheat,2013,1.82,Total Supply Chain Estimate
+804,Ukraine,111,wheat,2013,1.8205,Total Supply Chain Estimate
+804,Ukraine,112,Maize (Corn),2013,2.91,Total Supply Chain Estimate
+804,Ukraine,112,maize (corn),2013,2.9091,Total Supply Chain Estimate
+804,Ukraine,112,maize (corn),2013,2.9091,Total Supply Chain Estimate
+804,Ukraine,112,maize (corn),2013,2.9091,Total Supply Chain Estimate
+804,Ukraine,113,rice,2013,1.9993,Total Supply Chain Estimate
+804,Ukraine,114,sorghum,2013,2.8217,Total Supply Chain Estimate
+804,Ukraine,115,Barley,2013,2.02,Total Supply Chain Estimate
+804,Ukraine,115,barley,2013,2.022,Total Supply Chain Estimate
+804,Ukraine,116,rye,2013,1.0036,Total Supply Chain Estimate
+804,Ukraine,117,Oats,2013,1.5,Total Supply Chain Estimate
+804,Ukraine,117,oats,2013,1.4981,Total Supply Chain Estimate
+804,Ukraine,118,Millet,2013,0.98,Total Supply Chain Estimate
+804,Ukraine,118,millet,2013,0.9805,Total Supply Chain Estimate
+804,Ukraine,1192,Buckwheat,2013,0.56,Total Supply Chain Estimate
+804,Ukraine,1192,buckwheat,2013,0.5586,Total Supply Chain Estimate
+804,Ukraine,1199.9,other cereals n.e.c.,2013,2.6316,Total Supply Chain Estimate
+804,Ukraine,1510,potatoes,2013,6.2897,Total Supply Chain Estimate
+804,Ukraine,1801,sugar beet,2013,0.3244,Total Supply Chain Estimate
+804,Ukraine,2211,raw milk of cattle,2013,0.0804,Total Supply Chain Estimate
+807,The former Yugoslav Republic of Macedonia,116,rye,2013,3.3715,Total Supply Chain Estimate
+807,The former Yugoslav Republic of Macedonia,1443,rapeseed or colza seed,2013,5.988,Total Supply Chain Estimate
+807,The former Yugoslav Republic of Macedonia,1445,sunflower seed,2013,10.4384,Total Supply Chain Estimate
+807,The former Yugoslav Republic of Macedonia,1701,"beans, dry",2013,10,Total Supply Chain Estimate
+818,Egypt,111,Wheat,2013,35.25,Total Supply Chain Estimate
+818,Egypt,112,Maize (Corn),2013,11.55,Total Supply Chain Estimate
+818,Egypt,112,maize (corn),2013,11.5502,Total Supply Chain Estimate
+818,Egypt,112,maize (corn),2013,11.5502,Total Supply Chain Estimate
+818,Egypt,112,maize (corn),2013,11.5502,Total Supply Chain Estimate
+818,Egypt,113,rice,2013,1.9042,Total Supply Chain Estimate
+818,Egypt,114,sorghum,2013,4.9893,Total Supply Chain Estimate
+818,Egypt,115,Barley,2013,6.07,Total Supply Chain Estimate
+818,Egypt,115,barley,2013,6.0657,Total Supply Chain Estimate
+818,Egypt,142,"groundnuts, excluding shelled",2013,0.9766,Total Supply Chain Estimate
+818,Egypt,1441,Linseed,2013,51.52,Total Supply Chain Estimate
+818,Egypt,1441,linseed,2013,10.7043,Total Supply Chain Estimate
+818,Egypt,1444,sesame seed,2013,9.1333,Total Supply Chain Estimate
+818,Egypt,1450,olives,2013,0.7383,Total Supply Chain Estimate
+818,Egypt,1510,potatoes,2013,19.3427,Total Supply Chain Estimate
+818,Egypt,1530,sweet potatoes,2013,11.1868,Total Supply Chain Estimate
+818,Egypt,1550,taro ,2013,17.1553,Total Supply Chain Estimate
+818,Egypt,1701,"beans, dry",2013,1.0994,Total Supply Chain Estimate
+818,Egypt,1702,"broad beans and horse beans, dry",2013,6.1526,Total Supply Chain Estimate
+818,Egypt,1703,"chick peas, dry",2013,13.6643,Total Supply Chain Estimate
+818,Egypt,1704,"lentils, dry",2013,6.2851,Total Supply Chain Estimate
+818,Egypt,1801,sugar beet,2013,16.2879,Total Supply Chain Estimate
+818,Egypt,1802,sugar cane,2013,0.8682,Total Supply Chain Estimate
+826,United Kingdom,115,Barley,2013,0.66,Total Supply Chain Estimate
+826,United Kingdom,117,Oats,2013,0.52,Total Supply Chain Estimate
+826,United Kingdom of Great Britain and Northern Ireland,111,wheat,2013,0.5536,Total Supply Chain Estimate
+826,United Kingdom of Great Britain and Northern Ireland,115,barley,2013,0.6627,Total Supply Chain Estimate
+826,United Kingdom of Great Britain and Northern Ireland,117,oats,2013,0.5189,Total Supply Chain Estimate
+826,United Kingdom of Great Britain and Northern Ireland,1234,tomatoes,2013,3.8419,Total Supply Chain Estimate
+826,United Kingdom of Great Britain and Northern Ireland,1243,"broad beans and horse beans, green ",2013,1.7264,Total Supply Chain Estimate
+826,United Kingdom of Great Britain and Northern Ireland,1341,apples,2013,5.7716,Total Supply Chain Estimate
+826,United Kingdom of Great Britain and Northern Ireland,1342.01,pears,2013,9.7216,Total Supply Chain Estimate
+826,United Kingdom of Great Britain and Northern Ireland,1344.02,cherries,2013,0.5512,Total Supply Chain Estimate
+826,United Kingdom of Great Britain and Northern Ireland,1346,plums and sloes,2013,2.0786,Total Supply Chain Estimate
+826,United Kingdom of Great Britain and Northern Ireland,1351.01,currants,2013,3.5323,Total Supply Chain Estimate
+826,United Kingdom of Great Britain and Northern Ireland,1351.02,gooseberries ,2013,4.0144,Total Supply Chain Estimate
+826,United Kingdom of Great Britain and Northern Ireland,1353.01,raspberries,2013,8.2367,Total Supply Chain Estimate
+826,United Kingdom of Great Britain and Northern Ireland,1354,strawberries,2013,6.3906,Total Supply Chain Estimate
+826,United Kingdom of Great Britain and Northern Ireland,1355.9,other berries and fruits of the genus vaccinium,2013,2.505,Total Supply Chain Estimate
+826,United Kingdom of Great Britain and Northern Ireland,1705,"peas, dry",2013,1.8692,Total Supply Chain Estimate
+826,United Kingdom of Great Britain and Northern Ireland,231,"hen eggs in shell, fresh",2013,0.6696,Total Supply Chain Estimate
+834,Tanzania,112,Maize (Corn),2013,13.45,Processing
+834,Tanzania,112,Maize (Corn),2013,15,Pre-Harvest
+834,Tanzania,112,Maize (Corn),2013,16.5,Producer
+834,Tanzania,112,Maize (Corn),2013,20,Storage
+834,Tanzania,113,Rice,2013,3.5,Processing
+834,Tanzania,114,Sorghum,2013,6.48,Processing
+834,Tanzania,118,Millet,2013,20.18,Processing
+834,Tanzania,1316,Mangoes,2013,17,Traders
+834,Tanzania,1316,Mangoes,2013,20,Traders
+834,Tanzania,1316,Mangoes,2013,63,Traders
+834,Tanzania,1316,"Mangoes, Oranges,
+Pineapples And Lime",2013,40,Producer
+834,Tanzania,142,Groundnut,2013,18.48,Processing
+834,Tanzania,1444,Sesame Seed,2013,5.38,Processing
+834,Tanzania,1445,Sunflower Seed,2013,20.01,Processing
+834,Tanzania,1701,Beans,2013,2.03,Processing
+834,Tanzania,1707,"Pigeon Peas, Dry",2013,10.2,Processing
+834,United Republic of Tanzania,112,Maize (Corn),2013,13.45,Processing
+834,United Republic of Tanzania,112,Maize (Corn),2013,15,Pre-Harvest
+834,United Republic of Tanzania,112,Maize (Corn),2013,16.5,Producer
+834,United Republic of Tanzania,112,Maize (Corn),2013,20,Storage
+834,United Republic of Tanzania,112,maize (corn),2013,12.1351,Total Supply Chain Estimate
+834,United Republic of Tanzania,112,maize (corn),2013,12.1351,Total Supply Chain Estimate
+834,United Republic of Tanzania,112,maize (corn),2013,12.1351,Total Supply Chain Estimate
+834,United Republic of Tanzania,118,Millet,2013,20.18,Processing
+834,United Republic of Tanzania,1316,Mangoes,2013,17,Traders
+834,United Republic of Tanzania,1316,Mangoes,2013,20,Traders
+834,United Republic of Tanzania,1316,Mangoes,2013,63,Traders
+834,United Republic of Tanzania,1316,"Mangoes, Oranges,
+Pineapples And Lime",2013,40,Producer
+834,United Republic of Tanzania,142,Groundnut,2013,18.48,Processing
+834,United Republic of Tanzania,1445,Sunflower,2013,20,Processing
+834,United Republic of Tanzania,1701,Beans,2013,2.03,Processing
+834,United Republic of Tanzania,1707,"Pigeon Peas, Dry",2013,10.2,Processing
+834,United Republic of Tanzania,1802,sugar cane,2013,1.0026,Total Supply Chain Estimate
+84,Belize,1312,bananas,2013,1.0119,Total Supply Chain Estimate
+84,Belize,1313,plantains and others,2013,16.9549,Total Supply Chain Estimate
+840,United States of America,1371,"almonds, in shell",2013,3.4429,Total Supply Chain Estimate
+840,United States of America,1374,"hazelnuts, in shell",2013,2.2046,Total Supply Chain Estimate
+840,United States of America,1376,"walnuts, in shell",2013,0.2196,Total Supply Chain Estimate
+840,United States of America,1443,rapeseed or colza seed,2013,1.1958,Total Supply Chain Estimate
+840,United States of America,1510,potatoes,2013,6.0303,Total Supply Chain Estimate
+840,United States of America,1701,"beans, dry",2013,0.0449,Total Supply Chain Estimate
+840,United States of America,231,"hen eggs in shell, fresh",2013,2.0249,Total Supply Chain Estimate
+854,Burkina Faso,112,Maize (Corn),2013,5,Producer
+854,Burkina Faso,112,Maize (Corn),2013,5,Storage
+854,Burkina Faso,118,Millet,2013,0.7,Producer
+854,Burkina Faso,118,Millet,2013,0.7,Storage
+862,Venezuela (Bolivarian Republic of),111,wheat,2013,1.9719,Total Supply Chain Estimate
+862,Venezuela (Bolivarian Republic of),113,rice,2013,1.8501,Total Supply Chain Estimate
+862,Venezuela (Bolivarian Republic of),114,sorghum,2013,52.4459,Total Supply Chain Estimate
+862,Venezuela (Bolivarian Republic of),1234,tomatoes,2013,59.4462,Total Supply Chain Estimate
+862,Venezuela (Bolivarian Republic of),1312,bananas,2013,15.1714,Total Supply Chain Estimate
+862,Venezuela (Bolivarian Republic of),1313,plantains and others,2013,9.9007,Total Supply Chain Estimate
+862,Venezuela (Bolivarian Republic of),1318,pineapples,2013,15.1576,Total Supply Chain Estimate
+862,Venezuela (Bolivarian Republic of),1323,oranges,2013,9.7775,Total Supply Chain Estimate
+862,Venezuela (Bolivarian Republic of),1330,grapes,2013,29.9739,Total Supply Chain Estimate
+862,Venezuela (Bolivarian Republic of),141,soya beans,2013,0.1131,Total Supply Chain Estimate
+862,Venezuela (Bolivarian Republic of),1460,"coconuts, in shell",2013,7.0005,Total Supply Chain Estimate
+862,Venezuela (Bolivarian Republic of),1491.01,oil palm fruit,2013,0.1326,Total Supply Chain Estimate
+862,Venezuela (Bolivarian Republic of),1492,copra,2013,1.5712,Total Supply Chain Estimate
+862,Venezuela (Bolivarian Republic of),1640,cocoa beans,2013,0.2017,Total Supply Chain Estimate
+862,Venezuela (Bolivarian Republic of),1701,"beans, dry",2013,11.9811,Total Supply Chain Estimate
+862,Venezuela (Bolivarian Republic of),2211,raw milk of cattle,2013,0.8613,Total Supply Chain Estimate
+862,Venezuela (Bolivarian Republic of),21151,"edible offal of cattle, fresh, chilled or frozen",2013,0.8446,Total Supply Chain Estimate
+862,Venezuela (Bolivarian Republic of),21153,"edible offal of pigs, fresh, chilled or frozen",2013,3.4483,Total Supply Chain Estimate
+862,Venezuela (Bolivarian Republic of),21512,"cattle fat, unrendered",2013,8.9908,Total Supply Chain Estimate

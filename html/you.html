@@ -1,0 +1,722 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Food Waste</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+	<script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+	<link href="../style.css" rel="stylesheet">
+</head>
+<body>
+
+<!-- Navigation -->
+<nav class="navbar navbar-expand-md navbar-light bg-light sticky-top">
+	<div class="container-fluid">
+		<a class="navbar-brand" href="../index.html"><img src="../img/logo2.png"></a>
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="navbarResponsive">
+			<ul class="navbar-nav ml-auto">
+				<li class="nav-item">
+					<a class="nav-link" href="html/index.html">Home</a>
+				</li>
+
+			    <li class="nav-item">
+					<a class="nav-link" href="problem.html">Problem</a>
+                </li>
+                
+                <li class="nav-item">
+					<a class="nav-link" href="ml.html">Machine Learning</a>
+				</li>
+
+				<li class="nav-item">
+					<a class="nav-link" href="we.html">What are we doing</a>
+				</li>
+
+				<li class="nav-item active">
+					<a class="nav-link" href="you.html">What can you do?</a>
+				</li>
+
+				<li class="nav-item">
+					<a class="nav-link" href="data.html">Data</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</nav>
+
+<!--- Image Slider -->
+<div id="slides" class="carousel slide" data-ride="carousel">
+	<ul class="carousel-indicators">
+		<li data-target="#slides" data-slide-to="0" class="active"></li>
+		<li data-target="#slides" data-slide-to="1" class="active"></li>
+		<li data-target="#slides" data-slide-to="2" class="active"></li>
+	</ul>
+	<div class="carousel-inner">
+		<div class="carousel-item active">
+			<img src="../img/background.png">
+			<div class="carousel-caption">
+				<h1 class="display-2">Food Waste</h1>
+				<h3>How much food are we wasting?</h3>
+			</div>
+		</div>
+
+		<div class="carousel-item">
+			<img src="../img/background2.png">
+		</div>
+
+		<div class="carousel-item">
+			<img src="../img/background3.png">
+		</div>
+	</div>
+</div>
+
+<!--- Welcome to our final project -->
+<div class="container-fluid padding">
+	<div class="row welcome text-center">
+		<div class="col-12">
+			<h1 class="display-4">What can you do?</h1>
+		</div>
+		<hr>
+		<div class="col-12">
+			<p class="lead">Addison, Jessica, and Ivan</p>
+		</div>
+	</div>
+</div>
+
+<!--- Brief intro of food waste -->
+<div class="container-fluid padding">
+	<div class="row padding">
+		<div class="col-md-12 col-lg-6">
+            <h2>Things you can start doing today!</h2>
+            <br>
+			<ul>
+                <li>Shop smart and realistically.</li>
+                <br>
+                <li>When cooking, don't over-serve food.</li>
+                <br>
+                <li>Save – and actually eat – leftovers.</li>
+                <br>
+                <li>Store food in the right places.</li>
+                <br>
+                <li>Avoid clutter in your fridge, pantry and freezer.</li>
+                <br>
+                <li>Treat expiration and sell-by dates as guidelines.</li>
+                <br>
+                <li>Keep track of what you throw away.</li>
+                <br>
+                <li>Donate to food banks and farms.</li>
+                <br>
+                <li>Try canning and pickling.</li>
+			  </ul>
+		</div>
+		<div class="col-lg-6">
+            <a href="https://imgflip.com/i/3ojk2q"><img src="https://i.imgflip.com/3ojk2q.jpg" title="made at imgflip.com" class="img-fluid"/></a>
+		</div>
+	</div>
+</div>
+
+<!--- Map of food banks -->
+<style>
+    #map{
+      height:800px;
+      width:100%;
+    }
+  </style>
+</head>
+<body>
+  <center><h1>Food Banks Across The U.S.</h1></center>
+  <div id="map"></div>
+  <script>
+    function initMap(){
+      // Map options
+      var options = {
+        zoom:5,
+        center:{lat:39.8097,lng:-98.5556}
+      }
+
+      // New map
+      var map = new google.maps.Map(document.getElementById('map'), options);
+
+      // Array of markers
+      var markers = [
+        {
+          coords:{lat: 61.222561, lng: -149.841370},
+          iconImage:'https://developers.google.com/maps/documentation/javascript/examples/full/images/beachflag.png',
+          content:'<h1>Food Bank of Alaska, Inc.</h1><br><p> 2121 Spar Avenue Anchorage, AK 99501 907.272.3663</p>'
+        },
+        {
+          coords:{lat: 33.473860, lng: -86.837620},
+          content:'<h4>Community Food Bank of Central Alabama</h4><br><p> 107 Walter Davis Drive Birmingham, AL 35209</p><br><p> Phone #: 205.942.8911</p>'
+        },
+        {
+          coords:{lat: 34.723500, lng: -86.596460},
+          content:'<h4>Food Bank of North Alabama</h4><br><p>2000 B. Vernon Ave. P.O. Box 18607 Huntsville, AL 35805</p><br><p> Phone #: 256.539.2256</p>'
+        },
+        {
+          coords:{lat: 32.371800, lng: -86.345150},
+          content:'<h4>Montgomery Area Food Bank, Inc.</h4><br><p>521 Trade Center Street Montgomery, AL 36108</p><br><p> Phone #: 334.263.3784</p>'
+        },
+        {
+          coords:{lat: 30.580840, lng: -88.162850},
+          content:'<h4>Feeding the Gulf Coast</h4><br><p> 5248 Mobile South Street Theodore, AL 36582</p><br><p> Phone #: 251.653.1617</p>'
+        },
+        {
+          coords:{lat: 36.223350, lng: -94.114920},
+          content:'<h4>Northwest Arkansas Food Bank</h4><br><p> 1378 June Self Drive Bethel Heights, AR 72764</p><br><p> Phone #: 479.872.8774</p>'
+        },
+        {
+          coords:{lat: 35.329190, lng: -94.417760},
+          content:'<h4>River Valley Regional Food Bank</h4><br><p>1617 South Zero Street PO Box 180070 Ft. Smith, AR 72918</p><br><p> Phone #: 479.785.0582</p>'
+        },
+        {
+          coords:{lat: 36.223350, lng: -94.114920},
+          content:'<h4>Food Bank of Northeast Arkansas</h4><br><p>3414 One Place P.O. Box 2097 Jonesboro, AR 72402</p><br><p> Phone #: 870.932.3663</p>'
+        },
+        {
+          coords:{lat: 36.223350, lng: -94.114920},
+          content:'<h4>Arkansas Foodbank</h4><br><p> 4301 W 65th St Little Rock, AR 72209</p><br><p> Phone #: 501.565.8121</p>'
+        },
+        {
+          coords:{lat: 33.440060, lng: -94.009020}, 
+          content: '<h4>Harvest Regional Food Bank, Inc.</h4><br><p>3120 East 19th Street P.O. Box 707 Texarkana, AR 71854</p><br><p>Phone #: 870.774.1398</p>'
+        },
+        {
+           coords: {lat: 33.409280, lng: -111.850520},
+           content: '<h4>United Food Bank</h4><p>245 South Nina Drive Mesa, AZ 85210</p><br><p>Phone #: 480.926.4897</p>'
+        },
+        {
+            coords: {lat: 33.479118, lng: -112.124557},
+            content: "<h4>St. Mary's Food Bank Alliance</h4><br><p>2831 N. 31st Avenue Phoenix, AZ 85009<br><p>Phone #: 602.242.3663</p>"
+        },
+        {
+            coords: {lat: 32.188720, lng: -110.925290},
+            content: '<h4>3003 South Country Club Road</h4><br><p>PO Box 26727 Tucson, AZ 85726</h4><br><p>Phone #: 520.622.0525</p>'
+        },
+        {
+            coords:{lat: 32.684820, lng: -114.593320},
+            content: '<h4>Yuma Community Food Bank</h4><br><p>2404 E 24th St. Ste. A Yuma, AZ 85365</p><br><p>Phone #: 928.343.1243</p>'
+        },
+        {
+            coords:{lat: 38.007610, lng: -122.044449},
+            content: '<h4>Food Bank of Contra Costa and Solano</h4><br><p>4010 Nelson Ave Concord, CA 94520</p><br><p>Phone #: 925.676.7543</p>'
+        },
+        {
+            coords: {lat: 36.693670, lng: -119.758370},
+            content: '<h4>Central California Food Bank</h4><br><p>4010 E. Hardy Ave Fresno, CA 93725</p><br><p>Phone #: 559.237.2527</p>'
+        },
+        {
+            coords: {lat: 33.718610, lng: -116.203930},
+            content: '<h4>FIND Food Bank</h4><br><p>83-775 Citrus Ave P.O. Box 10080 Indio, CA 92202</p><br><p>Phone #: 760.775.3663</p>'
+        },
+        {
+            coords: {lat: 33.663368, lng:-117.737991},
+            content: '<h4>Second Harvest Food Bank of Orange County</h4><br><p>8014 Marine Way Irvine, CA 92618</p><br><p>Phone #: 949.653.2900</p>'
+        },
+        {
+            coords: {lat: 34.007830, lng: -118.242080},
+            content: '<h4>Los Angeles Regional Food Bank</h4><br><p>1734 E. 41st Street Los Angeles, CA 90058</p><br><p>Phone #: 323.234.3030</p>'
+        },
+        {
+            coords: {lat: 37.784250, lng: -121.208430},
+            content: '<h4>Second Harvest Food Bank of San Joaquin and Stanislaus Counties</h4><br><p>1220 Vanderbilt Cir Manteca, CA 95337</p><br><p>Phone #: 209.239.2091</p>'
+        },   
+        {
+            coords: {lat: 37.741520, lng: -122.201220},
+            content: '<h4>Alameda County Community Food Bank</h4><br><p>7900 Edgewater Drive P.O. Box 2599 Oakland, CA 94621</p><br><p>Phone #: 510.635.3663</p>'
+        },  
+        {
+            coords: {lat: 34.255400, lng: -119.161510},
+            content: '<h4>Food Share of Ventura County</h4><br><p>4156 Southbank Road Oxnard, CA 93036</p><br><p>Phone #: 805.983.7100</p>'
+        },
+        {
+            coords: {lat: 33.925310, lng: -117.408560},
+            content: '<h4>Feeding America Riverside San Bernardino Counties</h4><br><p>2950 - A Jefferson Street Riverside, CA 92504</p><br><p>Phone #: 951.359.4757</p>'
+        },  
+        {
+            coords: {lat: 38.787922,lng: -121.307922},
+            content: '<h4>Placer Food Bank</h4><br><p>8284 Industrial Ave Roseville, CA 95678</p><br><p>Phone #: 916.783.0481</p>'
+        },  
+        {
+            coords: {lat: 36.683100, lng: -121.672300},
+            content: '<h4>Food Bank for Monterey County</h4><br><p>815 W. Market Street, Suite 5 Salinas, CA 93901</p><br><p>Phone #: 831.758.1523</p>'
+        },  
+        {
+            coords: {lat: 36.683100, lng: -121.672300},
+            content: '<h4>Feeding San Diego</h4><br><p>9455 Waples Street, Suite 135 San Diego, CA 92121</p><br><p>Phone #: 858.452.3663</p>'
+        }, 
+        {
+            coords: {lat: 38.868850, lng: -104.712530},
+            content: '<h4>Care and Share Food Bank</h4><br><p>2605 Preamble Point Colorado Springs, CO 80915</p><br><p>Phone #: 719.528.1247</p>'
+        },   
+        {
+            coords: {lat: 39.777540, lng: -104.863580},
+            content: '<h4>Food Bank of the Rockies</h4><br><p>10700 E. 45th Ave Denver, CO 80239</p><br><p>Phone #: 303.371.9250</p>'
+        },   
+        {
+            coords: {lat: 40.450770, lng: -104.998140},
+            content: '<h4>Food Bank for Larimer County</h4><br><p>5706 Wright Drive Loveland, CO 80538</p><br><p>Phone #: 970.493.4477</p>'
+        },  
+        {
+            coords: {lat: 40.450770, lng: -104.998140},
+            content: '<h4>Food Bank for Larimer County</h4><br><p>5706 Wright Drive Loveland, CO 80538</p><br><p>Phone #: 970.493.4477</p>'
+        },   
+		{
+            coords: {lat: 41.865650, lng: -72.725360},
+            content: '<h4>Foodshare</h4><br><p>450 Woodland Avenue Bloomfield, CT 06002</p><br><p>Phone #: 860.286.9999</p>'
+        },   
+		{
+            coords: {lat: 41.480276, lng: -72.765829},
+            content: '<h4>Connecticut Food Bank</h4><br><p>2 Research Parkway Wallingford, CT 06492</p><br><p>Phone #: 203.469.5000</p>'
+        },   
+		{
+            coords: {lat: 38.946112, lng: -76.998905},
+            content: '<h4>Capital Area Food Bank</h4><br><p>4900 Puerto Rico Ave NE Washington, DC 20017</p><br><p>Phone #: 202.526.5344</p>'
+        },   
+		{
+            coords: {lat: 39.613434, Lng: -75.754836},
+            content: '<h4>Food Bank of Delaware</h4><br><p>222 Lake Drive Newark, DE 19702</p><br><p>Phone #: 302.292.1305</p>'
+        },   
+		{
+            coords: {lat: 26.607303, lng: -81.862821},
+            content: '<h4>Harry Chapin Food Bank of Southwest Florida</h4><br><p>3760 Fowler St. Ft. Myers, FL 33901</p><br><p>Phone #: 239.334.7007</p>'
+        },   
+		{
+            coords: {lat: 27.450884, lng: -80.360618},
+            content: '<h4>Treasure Coast Food Bank</h4><br><p>401 Angle Rd. Ft. Pierce, FL 34947</p><br><p>Phone #: 772.489.3034</p>'
+        },   
+		{
+            coords: {lat: 30.340870, lng: -81.732375},
+            content: '<h4>Feeding Northeast Florida</h4><br><p>41116 Edgewood Avenue North, Units D and E Jacksonville, FL 32254</p><br><p>Phone #: 904.513.1333</p>'
+        },   
+		{
+            coords: {lat: 28.548262, lng: -81.429702},
+            content: '<h4>Second Harvest Food Bank of Central Florida</h4><br><p> 411 Mercy Drive Orlando, FL 32805</p><br><p>Phone #: 407.295.1066</p>'
+        },  
+		{
+            coords: {lat: 34.002438, lng: -83.402107},
+            content: '<h4>Food Bank of Northeast Georgia</h4><br><p>861 Newton Bridge Road P.O. Box 48857 Athens, GA 30604</p><br><p>Phone #: 706.354.8191</p>'
+        },  
+		{
+            coords: {lat: 33.774393, lng: -84.418513},
+            content: '<h4>Atlanta Community Food Bank</h4><br><p>732 Joseph E. Lowery Blvd. N.W. Atlanta, GA 30318</p><br><p>Phone #: 404.892.9822</p>'
+        },  
+		{
+            coords: {lat: 33.449874, lng: -82.060076},
+            content: '<h4>Golden Harvest Food Bank</h4><br><p>3310 Commerce Drive Augusta, GA 30909</p><br><p>Phone #: 706.736.1199</p>'
+        },  
+		{
+            coords: {lat: 32.805292, lng: -83.566860},
+            content: '<h4>Middle Georgia Community Food Bank</h4><br><p>4490 Ocmulgee East Boulevard PO Box 5024 Macon, GA 31217</p><br><p>Phone #: 478.742.3958</p>'
+        },  
+		{
+            coords: {lat: 32.065301, lng: -81.044212},
+            content: "<h4>America's Second Harvest of Coastal Georgia, Inc.</h4><br><p>2501 East President Street Savannah, GA 31404</p><br><p>Phone #: 912.236.6750</p>"
+        }, 
+		{
+            coords: {lat: 30.805261, lng: -83.286984},
+            content: "<h4>Second Harvest of South Georgia, Inc</h4><br><p>1411 Harbin Circle Valdosta, GA 31601</p><br><p>Phone #: 229.244.2678</p>"
+        }, 
+		{
+            coords: {lat: 41.499524, lng: -90.636543},
+            content: "<h4>River Bend Foodbank</h4><br><p>4010 Kimmel Drive Davenport, IA 52802</p><br><p>Phone #: 563.345.6490</p>"
+        }, 
+		{
+            coords: {lat: 41.614257, lng: -93.592075},
+            content: "<h4>Food Bank of Iowa</h4><br><p>2220 E. 17th Street P.O. Box 1517 Des Moines, IA 50316</p><br><p>Phone #: 515.564.0330</p>"
+        }, 
+		{
+            coords: {lat: 42.493491, lng: -92.321724},
+            content: "<h4>Northeast Iowa Food Bank</h4><br><p>1605 Lafayette Steet PO Box 2397 Waterloo, IA 50703</p><br><p>Phone #: 319.235.0507</p>"
+        }, 
+		{
+            coords: {lat: 43.569901, lng: -116.191303},
+            content: "<h4>The Idaho Foodbank</h4><br><p>3562 South TK Avenue Boise, ID 83705</p><br><p>Phone #: 208.336.9643</p>"
+        }, 
+		{
+            coords: {lat: 41.818256, lng: -87.726947},
+            content: "<h4>Greater Chicago Food Depository</h4><br><p>4100 West Ann Lurie Place Chicago, IL 60632</p><br><p>Phone #: 773.247.3663</p>"
+        }, 
+		{
+            coords: {lat: 41.887071, lng: -88.267674},
+            content: "<h4>Northern Illinois Food Bank</h4><br><p>273 Dearborn Court Geneva, IL 60134</p><br><p>Phone #: 630.443.6916</p>"
+        }, 
+		{
+            coords: {lat: 39.794742, lng: -89.628105},
+            content: "<h4>Central Illinois Foodbank</h4><br><p>1937 E. Cook Springfield, IL 62703</p><br><p>Phone #: 217.522.4022</p>"
+        }, 
+		{
+            coords: {lat: 39.174320, lng: -86.567969},
+            content: "<h4>Hoosier Hills Food Bank</h4><br><p>2333 West Industrial Park Drive PO Box 697 Bloomington, IN 47404</p><br><p>Phone #: 812.334.8374</p>"
+        }, 
+		{
+            coords: {lat: 41.018249, lng: -85.122613},
+            content: "<h4>Community Harvest Food Bank of Northeast Indiana, Inc.</h4><br><p>999 East Tillman Road P. O. Box 10967 Fort Wayne, IN 46855</p><br><p>Phone #: 260.447.3696</p>"
+        }, 
+		{
+            coords: {lat: 39.709841, lng: -86.260912},
+            content: "<h4>Gleaners Food Bank of Indiana, Inc.</h4><br><p>3737 Waldemere Ave. Indianapolis, IN 46241</p><br><p>Phone #: 317.925.0191</p>"
+        }, 
+		{
+            coords: {lat: 40.432273, lng: -86.884426},
+            content: "<h4>Food Finders Food Bank Inc.</h4><br><p>1204 Greenbush Street Lafayette, IN 47904</p><br><p>Phone #: 765.471.0062</p>"
+        }, 
+		{
+            coords: {lat: 37.685904, lng: -97.314303},
+            content: "<h4>Kansas Food Bank</h4><br><p>1919 E. Douglas Wichita, KS 67211</p><br><p>Phone #: 316.265.3663</p>"
+        }, 
+		{
+            coords: {lat: 37.684860, lng: -85.905770},
+            content: "<h4>Feeding America, Kentucky’s Heartland</h4><br><p>313 Peterson Dr., PO Box 821 Elizabethtown, KY 42701</p><br><p>Phone #: 270.769.6997</p>"
+        }, 
+		{
+            coords: {lat: 38.085360, lng: -84.518520},
+            content: "<h4>God's Pantry Food Bank, Inc.</h4><br><p>1685 Jaggie Fox Way Lexington, KY 40511</p><br><p>Phone #: 859.255.6592</p>"
+        }, 
+		{
+            coords: {lat: 31.270660, lng: -92.452580},
+            content: "<h4>Food Bank of Central Louisiana</h4><br><p>3223 Baldwin Avenue Alexandria, LA 71301</p><br><p>Phone #: 318.445.2773</p>"
+        }, 
+		{
+            coords: {lat: 30.473020, lng: -91.066490},
+            content: "<h4>Greater Baton Rouge Food Bank</h4><br><p>10600 S. Choctaw Drive Post Office Box 45830 Baton Rouge, LA 70815</p><br><p>Phone #: 225.359.9940</p>"
+        }, 
+		{
+            coords: {lat: 32.512770, lng: -92.063620},
+            content: "<h4>Food Bank of Northeast Louisiana</h4><br><p>4600 Central Ave PO Box 5048 Monroe, LA 71211</p><br><p>Phone #: 318.322.3567</p>"
+        }, 
+		{
+            coords: {lat: 29.951840, lng: -90.192770},
+            content: "<h4>Second Harvest Food Bank of Greater New Orleans and Acadiana</h4><br><p>700 Edwards Avenue New Orleans, LA 70123</p><br><p>Phone #: 504.734.1322</p>"
+        }, 
+		{
+            coords: {lat: 42.334160, lng: -71.065690},
+            content: "<h4>The Greater Boston Food Bank</h4><br><p>70 South Bay Ave Boston, MA 02118</p><br><p>Phone #: 617.427.5200</p>"
+        }, 
+		{
+            coords: {lat: 42.275900, lng: -71.721250},
+            content: "<h4>Worcester County Food Bank, Inc.</h4><br><p>474 Boston Turnpike Shrewsbury, MA 01545</p><br><p>Phone #: 508.842.3663</p>"
+        }, 
+		{
+            coords: {lat: 39.224000, lng: -76.684150},
+            content: "<h4>Maryland Food Bank</h4><br><p>2200 Halethorpe Farms Road Baltimore, MD 21227</p><br><p>Phone #: 410.737.8282</p>"
+        }, 
+		{
+            coords: {lat: 44.030500, lng: -70.288710},
+            content: "<h4>Good Shepherd Food Bank</h4><br><p>3121 Hotel Road PO Box 1807 Auburn, ME 04211</p><br><p>Phone #: 207.782.3554</p>"
+        }, 
+		{
+            coords: {lat: 42.317430, lng: -83.727980},
+            content: "<h4>Food Gatherers</h4><br><p>1 Carrot Way P.O. Box 131037 Ann Arbor, MI 48105</p><br><p>Phone #: 734.761.2796</p>"
+        }, 
+		{
+            coords: {lat: 43.048380, lng: -85.649760},
+            content: "<h4>Feeding America West Michigan Food Bank</h4><br><p>864 West River Center Drive Comstock Park, MI 49321</p><br><p>Phone #: 616.784.3250</p>"
+        }, 
+		{
+            coords: {lat: 42.354220, lng: -83.014200},
+            content: "<h4>Gleaners Community Food Bank of Southeastern Michigan</h4><br><p>2131 Beaufait Street Detroit, MI 48207</p><br><p>Phone #: 313.923.3535</p>"
+        }, 
+		{
+            coords: {lat: 43.008300, lng: -83.666350},
+            content: "<h4>Food Bank of Eastern Michigan</h4><br><p>2300 Lapeer Road Flint, MI 48503</p><br><p>Phone #: 810.239.4441</p>"
+        }, 
+		{
+            coords: {lat: 47.777230, lng: -96.603780},
+            content: "<h4>North Country Food Bank, Inc.</h4><br><p>424 North Broadway Crookston, MN 56716</p><br><p>Phone #: 218.281.7356</p>"
+        }, 
+		{
+            coords: {lat: 46.834050, lng: -92.169860},
+            content: "<h4>Second Harvest Northern Lakes Food Bank</h4><br><p>4503 Airpark Boulevard Duluth, MN 55811</p><br><p>Phone #: 218.727.5653</p>"
+        }, 
+		{
+            coords: {lat: 45.013330, lng: -93.052780},
+            content: "<h4>Second Harvest Heartland</h4><br><p>1140 Gervais Avenue St. Paul, MN 55109</p><br><p>Phone #: 651.484.5117</p>"
+        }, 
+		{
+            coords: {lat: 38.784530, lng: -90.461240},
+            content: "<h4>St. Louis Area Foodbank</h4><br><p>70 Corporate Woods Drive Bridgeton, MO 63044</p><br><p>Phone #: 314.292.6262</p>"
+        }, 
+		{
+            coords: {lat: 39.023220, lng: -94.518320},
+            content: "<h4>Harvesters - The Community Food Network</h4><br><p>3801 Topping Avenue Kansas City, MO 64129</p><br><p>Phone #: 816.929.3000</p>"
+        }, 
+		{
+            coords: {lat: 37.245920, lng: -93.235910},
+            content: "<h4>Ozarks Food Harvest</h4><br><p>2810 N. Cedarbrook Ave Springfield, MO 65803</p><br><p>Phone #: 417.865.3411</p>"
+        }, 
+		{
+            coords: {lat: 32.285120, lng: -90.190410},
+            content: "<h4>Mississippi Food Network</h4><br><p>440 W. Beatty Street PO Box 411 Jackson, MS 39205</p><br><p>Phone #: 601.973.7080</p>"
+        }, 
+		{
+            coords: {lat: 46.921370, lng: -114.075220},
+            content: "<h4>Montana Food Bank Network</h4><br><p>5625 Expressway Missoula, MT 59808</p><br><p>Phone #: 406.721.3825</p>"
+        }, 
+		{
+            coords: {lat: 35.577140, lng: -82.498020},
+            content: "<h4>MANNA FoodBank</h4><br><p>627 Swannanoa River Rd Asheville, NC 28805</p><br><p>Phone #: 828.299.3663</p>"
+        },
+		{
+            coords: {lat: 35.238550, lng: -80.839050},
+            content: "<h4>Second Harvest Food Bank of Metrolina</h4><br><p>500 B Spratt St. Charlotte, NC 28206</p><br><p>Phone #: 704.376.1785</p>"
+        },
+		{
+            coords: {lat: 35.804570, lng: -78.615140},
+            content: "<h4>Food Bank of Central & Eastern North Carolina</h4><br><p>1924 Capital Boulevard Raleigh, NC 27604</p><br><p>Phone #: 919.875.0707</p>"
+        },
+		{
+            coords: {lat: 46.878890, lng: -96.809480},
+            content: "<h4>Great Plains Food Bank</h4><br><p>1720 3rd Avenue North Fargo, ND 58102</p><br><p>Phone #: 701.232.6219</p>"
+        },
+		{
+            coords: {lat: 40.862770, lng: -96.651550},
+            content: "<h4>Food Bank of Lincoln, Inc.</h4><br><p>4840 Doris Bair Circle, Suite A Lincoln, NE 68504</p><br><p>Phone #: 402.466.8170</p>"
+        },
+		{
+            coords: {lat: 41.213490, lng: -96.077740},
+            content: "<h4>Food Bank for the Heartland</h4><br><p>10525 J Street Omaha, NE 68127</p><br><p>Phone #: 402.905.4802</p>"
+        },
+		{
+            coords: {lat: 42.981720, lng: -71.408460},
+            content: "<h4>New Hampshire Food Bank</h4><br><p>700 East Industrial Park Drive Manchester, NH 03109</p><br><p>Phone #: 603.669.9725</p>"
+        },
+		{
+            coords: {lat: 40.696940, lng: -74.212320},
+            content: "<h4>Community FoodBank of New Jersey</h4><br><p>31 Evans Terminal Hillside, NJ 07205</p><br><p>Phone #: 908.355.3663</p>"
+        },
+		{
+            coords: {lat: 40.229151, lng: -74.061587},
+            content: "<h4>FULFILL - (The FoodBank of Monmouth and Ocean Counties, Inc.)</h4><br><p>3300 Route 66 Neptune, NJ 07753</p><br><p>Phone #: 732.918.2600</p>"
+        },
+		{
+            coords: {lat: 39.981305, lng: -75.040113},
+            content: "<h4>Food Bank of South Jersey</h4><br><p>1501 John Tipton Boulevard Pennsauken, NJ 08110</p><br><p>Phone #: 856.662.4884</p>"
+        },
+		{
+            coords: {lat: 35.152537, lng: -106.569002},
+            content: "<h4>Roadrunner Food Bank</h4><br><p>5840 Office Blvd NE Albuquerque, NM 87109</p><br><p>Phone #: 505.247.2052</p>"
+        },
+		{
+            coords: {lat: 36.236080, lng: -115.096573},
+            content: "<h4>Three Square Food Bank</h4><br><p>4190 N. Pecos Rd. Las Vegas, NV 89115</p><br><p>Phone #: 702.644.3663</p>"
+        },
+		{
+            coords: {lat: 39.533629, lng: -119.475003},
+            content: "<h4>Food Bank of Northern Nevada</h4><br><p>550 Italy Dr Sparks, NV 89437</p><br><p>Phone #: 775.331.3663</p>"
+        },
+		{
+            coords: {lat: 40.744950, lng: -73.487424},
+            content: "<h4>Island Harvest</h4><br><p>15 Grumman Road West Suite 1450 Bethpage, NY 11714</p><br><p>Phone #: 516.294.8528</p>"
+        },
+		{
+            coords: {lat: 42.881058, lng: -78.830963},
+            content: "<h4>FeedMore Western New York</h4><br><p>91 Holt Street Buffalo, NY 14206</p><br><p>Phone #: 716.852.1305</p>"
+        },
+		{
+            coords: {lat: 40.806909, lng: -73.872054},
+            content: "<h4>Food Bank For New York City</h4><br><p>355 Food Center Dr. New York, NY 10474</p><br><p>Phone #: 718.991.4300</p>"
+        },
+		{
+            coords: {lat: 40.746623, lng: -73.984834},
+            content: "<h4>City Harvest</h4><br><p>6 East 32nd Street, 5th Fl. New York, NY 10016</p><br><p>Phone #: 646.412.0600</p>"
+        },
+		{
+            coords: {lat: 43.110483, lng: -76.275935},
+            content: "<h4>Food Bank of Central New York</h4><br><p>7066 Interstate Island Road Syracuse, NY 13209</p><br><p>Phone #: 315.437.1899</p>"
+        },
+		{
+            coords: {lat: 41.072391, lng: -81.536193},
+            content: "<h4>Akron-Canton Regional Foodbank</h4><br><p>350 Opportunity Parkway Akron, OH 44307</p><br><p>Phone #: 330.535.6900</p>"
+        },
+		{
+            coords: {lat: 39.107141, lng: -84.520094},
+            content: "<h4>Freestore Foodbank</h4><br><p>1141 Central Parkway Cincinnati, OH 45202</p><br><p>Phone #: 513.482.4500</p>"
+        },
+		{
+            coords: {lat: 41.566960, lng: -81.572692},
+            content: "<h4>Greater Cleveland Food Bank, Inc.</h4><br><p>15500 South Waterloo Road Cleveland, OH 44110</p><br><p>Phone #: 216.738.2265</p>"
+        },
+		{
+            coords: {lat: 41.566960, lng: -81.572692},
+            content: "<h4>The Foodbank, Inc.</h4><br><p>56 Armor Place Dayton, OH 45417</p><br><p>Phone #: 937.461.0265</p>"
+        },		
+		{
+            coords: {lat: 41.566960, lng: -81.572692},
+            content: "<h4>Toledo Northwestern Ohio Food Bank</h4><br><p>24 East Woodruff Avenue Toledo, OH 43604</p><br><p>Phone #: 419.242.5000</p>"
+        },
+		{
+            coords: {lat: 35.430751, lng: -97.614935},
+            content: "<h4>Regional Food Bank of Oklahoma</h4><br><p>3355 S. Purdue PO Box 270968 Oklahoma City, OK 73179</p><br><p>Phone #: 405.972.1111</p>"
+        },
+		{
+            coords: {lat: 36.173181, lng: -95.982753},
+            content: "<h4>Community Food Bank of Eastern Oklahoma</h4><br><p>1304 N. Kenosha Ave. Tulsa, OK 74106</p><br><p>Phone #: 918.585.2800</p>"
+        },
+		{
+            coords: {lat: 45.580402, lng: -122.631911},
+            content: "<h4>Oregon Food Bank</h4><br><p>7900 NE 33rd Drive Portland, OR 97211</p><br><p>Phone #: 503.282.0555</p>"
+        },
+		{
+            coords: {lat: 40.396187, lng: -79.582187},
+            content: "<h4>Westmoreland County Food Bank</h4><br><p>100 Devonshire Drive Delmont, PA 15626</p><br><p>Phone #: 724.468.8660</p>"
+        },
+		{
+            coords: {lat: 42.109409, lng: -80.112611},
+            content: "<h4>Second Harvest Food Bank of Northwest Pennsylvania</h4><br><p>1507 Grimm Drive Erie, PA 16501</p><br><p>Phone #: 814.459.3663</p>"
+        },
+		{
+            coords: {lat: 40.273980, lng: -76.822442},
+            content: "<h4>Central Pennsylvania Food Bank</h4><br><p>3908 Corey Road Harrisburg, PA 17109</p><br><p>Phone #: 717.564.1700</p>"
+        },
+		{
+            coords: {lat: 39.902346, lng: -75.157209},
+            content: "<h4>Philabundance</h4><br><p>3616 S. Galloway Street Philadelphia, PA 19148</p><br><p>Phone #: 215.339.0900</p>"
+        },
+		{
+            coords: {lat: 40.311610, lng: -75.992553},
+            content: "<h4>Helping Harvest</h4><br><p>117 Morgan Drive Reading, PA 19608</p><br><p>Phone #: 610.926.5802</p>"
+        },
+		{
+            coords: {lat: 41.796830, lng: -71.437907},
+            content: "<h4>Rhode Island Community Food Bank</h4><br><p>200 Niantic Ave. Providence, RI 02907</p><br><p>Phone #: 401.942.6325</p>"
+        },
+		{
+            coords: {lat: 32.844319, lng: -79.972260},
+            content: "<h4>Lowcountry Food Bank</h4><br><p>2864 Azalea Drive Charleston, SC 29405</p><br><p>Phone #: 843.747.8146</p>"
+        },
+		{
+            coords: {lat: 33.962821, lng: 80.989753},
+            content: "<h4>Harvest Hope Food Bank</h4><br><p>2220 Shop Road P.O. Box 451 Columbia, SC 29201</p><br><p>Phone #: 803.254.4432</p>"
+        },
+		{
+            coords: {lat: 43.597839, lng: -96.762553},
+            content: "<h4>Feeding South Dakota</h4><br><p>4701 N Westport Ave Sioux Falls, SD 57107</p><br><p>Phone #: 605.335.0364</p>"
+        },
+		{
+            coords: {lat: 35.062488, lng: -85.275515},
+            content: "<h4>Chattanooga Area Food Bank</h4><br><p>2009 Curtain Pole Road Chattanooga, TN 37406</p><br><p>Phone #: 423.622.1800</p>"
+        },
+		{
+            coords: {lat: 35.042800, lng: -89.909677},
+            content: "<h4>Mid-South Food Bank</h4><br><p>3865 S Perkins Rd Memphis, TN 38118</p><br><p>Phone #: 901.527.0841</p>"
+        },
+		{
+            coords: {lat: 36.199245, lng: -86.793979},
+            content: "<h4>Second Harvest Food Bank of Middle Tennessee</h4><br><p>331 Great Circle Road Nashville, TN 37228</p><br><p>Phone #: 615.329.3491</p>"
+        },
+		{
+            coords: {lat: 32.454317, lng: -99.794599},
+            content: "<h4>Food Bank of West Central Texas</h4><br><p>5505 N. First Abilene, TX 79603</p><br><p>Phone #: 325.695.6311</p>"
+        },
+		{
+            coords: {lat: 35.201808, lng: -101.814675},
+            content: "<h4>High Plains Food Bank</h4><br><p>815 S. Ross PO Box 31803 Amarillo, TX 79120</p><br><p>Phone #: 806.374.8562</p>"
+        },
+		{
+            coords: {lat: 30.203180, lng: -97.709585},
+            content: "<h4>Central Texas Food Bank</h4><br><p>6500 Metropolis Drive Austin, TX 78744</p><br><p>Phone #: 512.282.2111</p>"
+        },
+		{
+            coords: {lat: 31.669508, lng: -106.323990},
+            content: "<h4>El Pasoans Fighting Hunger</h4><br><p>9541 Plaza Circle El Paso, TX 79927</p><br><p>Phone #: 915.298.0353</p>"
+        },
+		{
+            coords: {lat: 32.762120, lng: -97.353318},
+            content: "<h4>Tarrant Area Food Bank</h4><br><p>2600 Cullen Ft. Worth, TX 76107</p><br><p>Phone #: 817.332.9177</p>"
+        },
+		{
+            coords: {lat: 29.780856, lng: -95.274638},
+            content: "<h4>Houston Food Bank</h4><br><p>535 Portwall Street Houston, TX 77029</p><br><p>Phone #: 713.223.3700</p>"
+        },
+		{
+            coords: {lat: 29.780856, lng: -95.274638},
+            content: "<h4>San Antonio Food Bank</h4><br><p>5200 Enrique M Barrera Pkwy San Antonio, TX 78227</p><br><p>Phone #: 210.337.3663</p>"
+        },
+		{
+            coords: {lat: 40.704699, lng: -111.917852},
+            content: "<h4>Utah Food Bank</h4><br><p>3150 South 900 West Salt Lake City, UT 84119</p><br><p>Phone #: 801.978.2452</p>"
+        },
+		{
+            coords: {lat: 38.270247, lng: -77.456014},
+            content: "<h4>Fredericksburg Regional Foodbank</h4><br><p>3631 Lee Hill Drive PO Box 1006 Fredericksburg, VA 22408</p><br><p>Phone #: 540.371.7666</p>"
+        },
+		{
+            coords: {lat: 37.566456, lng: -77.455441},
+            content: "<h4>Feed More</h4><br><p>1415 Rhoadmiller Street Richmond, VA 23220</p><br><p>Phone #: 804.521.2500</p>"
+        },
+		{
+            coords: {lat: 44.173253, lng: -72.482567},
+            content: "<h4>Vermont Foodbank</h4><br><p>33 Parker Road Barre, VT 05641</p><br><p>Phone #: 802.476.3341</p>"
+        },
+		{
+            coords: {lat: 47.516342, lng: -122.322437},
+            content: "<h4>Food Lifeline</h4><br><p>815 South 96th Street Seattle, WA 98108</p><br><p>Phone #: 206.545.6600</p>"
+        },
+		{
+            coords: {lat: 47.659940, lng: -117.391106},
+            content: "<h4>Second Harvest Inland Northwest</h4><br><p>1234 E. Front Avenue Spokane, WA 99202</p><br><p>Phone #: 509.534.6678</p>"
+        },
+      ];
+
+      // Loop through markers
+      for(var i = 0;i < markers.length;i++){
+        // Add marker
+        addMarker(markers[i]);
+      }
+
+      // Add Marker Function
+      function addMarker(props){
+        var marker = new google.maps.Marker({
+          position:props.coords,
+          map:map,
+          //icon:props.iconImage
+        });
+
+        // Check for customicon
+        if(props.iconImage){
+          // Set icon image
+          marker.setIcon(props.iconImage);
+        }
+
+        // Check content
+        if(props.content){
+          var infoWindow = new google.maps.InfoWindow({
+            content:props.content
+          });
+
+          marker.addListener('click', function(){
+            infoWindow.open(map, marker);
+          });
+        }
+      }
+    }
+  </script>
+  <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=&callback=initMap">
+    </script>
+    
+<!--Map of food banks end-->
+	
+<!--- Footer -->
+<footer>
+	<div class="container-fluid padding">
+		<div class="row text-center"-->
+			<div class="col-12">
+				<hr class="light">
+				<img src="../img/footer.png">
+				<hr class="light">
+				<h5>&copy; Food Waste Final Project</h5>
+				<p> by Addison,Jessica, and Ivan </p>
+			</div>
+
+		</div>
+	<div>
+</body>
+</html>
+

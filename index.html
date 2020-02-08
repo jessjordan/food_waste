@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Food Waste</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+	<script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+	<link href="style.css" rel="stylesheet">
+</head>
+<body>
+
+<!-- Navigation -->
+<nav class="navbar navbar-expand-md navbar-light bg-light sticky-top">
+	<div class="container-fluid">
+		<a class="navbar-brand" href="index.html"><img src="img/logo2.png"></a>
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="navbarResponsive">
+			<ul class="navbar-nav ml-auto">
+				<li class="nav-item active">
+					<a class="nav-link" href="index.html">Home</a>
+				</li>
+
+			    <li class="nav-item">
+					<a class="nav-link" href="html/problem.html">Problem</a>
+				</li>
+
+				<li class="nav-item">
+					<a class="nav-link" href="html/ml.html">Machine Learning</a>
+				</li>
+
+				<li class="nav-item">
+					<a class="nav-link" href="html/we.html">What are we doing</a>
+				</li>
+
+				<li class="nav-item">
+					<a class="nav-link" href="html/you.html">What can you do?</a>
+				</li>
+
+				<li class="nav-item">
+					<a class="nav-link" href="html/data.html">Data</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</nav>
+
+<!--- Image Slider -->
+<div id="slides" class="carousel slide" data-ride="carousel">
+	<ul class="carousel-indicators">
+		<li data-target="#slides" data-slide-to="0" class="active"></li>
+		<li data-target="#slides" data-slide-to="1" class="active"></li>
+		<li data-target="#slides" data-slide-to="2" class="active"></li>
+	</ul>
+	<div class="carousel-inner">
+		<div class="carousel-item active">
+			<img src="img/background.png">
+			<div class="carousel-caption">
+				<h1 class="display-2">Food Waste</h1>
+				<h3>How much food are we wasting?</h3>
+			</div>
+		</div>
+
+		<div class="carousel-item">
+			<img src="img/background2.png">
+		</div>
+
+		<div class="carousel-item">
+			<img src="img/background3.png">
+		</div>
+	</div>
+</div>
+
+<!--- Welcome to our final project -->
+<div class="container-fluid padding">
+	<div class="row welcome text-center">
+		<div class="col-12">
+			<h1 class="display-4">Welcome To Our Final Project</h1>
+		</div>
+		<hr>
+		<div class="col-12">
+			<p class="lead">Addison, Jessica, and Ivan</p>
+		</div>
+	</div>
+</div>
+
+<!--- Brief intro of food waste -->
+<div class="container-fluid padding">
+	<div class="row padding">
+		<div class="col-md-12 col-lg-6">
+			<h2>What is our Objective</h2>
+			<p>Our objective mainly today is to create awareness to an issue that does not make the headlines as much
+				as it should be. Our project was to implement data analysis using tableau, python, and machine learning to 
+				showcase our data and to ultimately show why this is an issue that must be discussed more often. Throughout 
+				our project we will show you what the problem is, what we are doing, and what you can do to help our planet in 
+				regards to food waste and food loss. We hope you stick around, enjoy, and are able to take something home from our presentation!
+
+			</p>
+		</div>
+		<div class="col-lg-6">
+			<img src="img/timeline.png" class="img-fluid">
+		</div>
+	</div>
+</div>
+
+<hr class="my-4">
+
+<!--- What we used-->	
+<div class="container-fluid padding">
+			<center><h1 class="display-4">How we built it</h1></center>
+	<div class="row text-center padding">
+		<div class="col-xs-12 col-sm-6 col-md-4">
+			<i class="fas fa-code"></i>
+			<h3>HTML5</h3>
+		</div>
+		<div class="col-xs-12 col-sm-6 col-md-4">
+			<i class="fas fa-bold"></i>
+			<h3>Bootstrap</h3>
+		</div>
+		<div class="col-sm-12 col-md-4">
+			<i class="fab fa-css3"></i>
+			<h3>CSS3</h3>
+		</div>
+		<div class="col-sm-12 col-md-4">
+			<i class="fab fa-js-square"></i>
+			<h3>Javascript</h3>
+
+		</div>
+		<div class="col-sm-12 col-md-4">
+			<i class="fas fa-laptop"></i>
+			<h3>Machine Learning</h3>
+		</div>
+		<div class="col-sm-12 col-md-4">
+			<i class="fab fa-python"></i>
+			<h3>Python</h3>
+		</div>
+	</div>
+	<hr class="my-4">
+</div>
+
+<!--- Who are we -->
+<div class="container-fluid padding">
+	<center><h1 class="display-4">Who are we and what did we contribute?</h1></center>
+	<div class="row padding">
+		<div class="col-md-4">
+			<div class="card">
+				<!--img class="card-img-top" src="#"-->
+				<div class="card-body">
+					<h4 class="card-title">Addison</h4>
+					<p class="card-text">Addison helped with creating many of the lovely visualizations you see on this presentation.
+						Addison worked on the Tableau, Pandas, and Python portion. She also cleaned and joined the data to help create those graphs and maps you 
+						see! Finally, she put together that awesome trifold we are using in our presentation!
+						You can find out more about Addison on Github and LinkedIn just by clicking the links below!
+					</p>
+					<a class="button" target="_blank" href="https://github.com/addiebrown"><i class="fab fa-github"></i></a>
+					<a class="button" target="_blank" href="https://www.linkedin.com/in/addisonrbrown/"><i class="fab fa-linkedin-in"></i></a>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-4">
+			<div class="card">
+				<!--img class="card-img-top" src="#"-->
+				<div class="card-body">
+					<h4 class="card-title">Jessica</h4>
+					<p class="card-text">Jessica was so determined to make the machine learning portion of the project work! With her positivity 
+						and willingness, she was able to create a model to show the trends between 2010 and 2013. It was definitely
+						tough but we are proud of the result! Oh yeah! You see that awesome logo on the top left hand corner of the page?
+						Yup Jessica made it isn't it awesome? You can find out more about Jessica on Github and LinkedIn just by clicking the links below!
+					</p>
+					<a class="button" target="_blank" href="https://github.com/jessjordan"><i class="fab fa-github"></i></a>
+					<a class="button" target="_blank" href="https://www.linkedin.com/in/jessica-s-jordan/"><i class="fab fa-linkedin-in"></i></a>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-4">
+			<div class="card">
+				<!--img class="card-img-top" src="#"-->
+				<div class="card-body">
+					<h4 class="card-title">Ivan</h4>
+					<p class="card-text">Ivan created the website that you are currently feasting your eyes on with HTML5, CSS, and 
+						just a sprinkle of JavaScript. He was able to accomplish this by staying up until 4am while all his friends 
+						were out partying. Ivan also did a Google API call to construct the food bank map that you see on the "What can you do?" 
+						page not only that but had to stay up countless nights to input the geolocation info of each food bank in the U.S. 
+						You're welcome! 
+						You can find out more about Ivan on Github and LinkedIn just by clicking the links below!
+					</p>
+					<a class="button" target="_blank" href="https://github.com/iaguirre92"><i class="fab fa-github"></i></a>
+					<a class="button" target="_blank" href="https://www.linkedin.com/in/ivan9219/"><i class="fab fa-linkedin-in"></i></a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!--- Footer -->
+<footer>
+	<div class="container-fluid padding">
+		<div class="row text-center"-->
+			<div class="col-12">
+				<hr class="light">
+				<img src="img/footer.png">
+				<hr class="light">
+				<h5>&copy; Food Waste Final Project</h5>
+				<p> by Addison,Jessica, and Ivan </p>
+			</div>
+
+		</div>
+	<div>
+</body>
+</html>
+
+
